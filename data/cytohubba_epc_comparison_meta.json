@@ -1,0 +1,30 @@
+{
+ "vi_threshold": 0.98,
+ "spearman_rho": 0.9965,
+ "top10_overlap": 8,
+ "sim_top10": [
+  "IL6",
+  "INS",
+  "TNF",
+  "ALB",
+  "AKT1",
+  "IL1B",
+  "TP53",
+  "PPARG",
+  "CCL2",
+  "BCL2"
+ ],
+ "official_top10": [
+  "INS",
+  "IL6",
+  "IL1B",
+  "AKT1",
+  "ALB",
+  "TP53",
+  "TNF",
+  "PPARG",
+  "JUN",
+  "NFKB1"
+ ],
+ "common_nodes": 457
+}

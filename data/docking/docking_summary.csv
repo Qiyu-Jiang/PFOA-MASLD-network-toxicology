@@ -1,0 +1,9 @@
+﻿Target,PDB,Pocket,Best_kcal_mol,Top2,Top3,Secs
+PPARA,1K7L,544 (agonists),-8.124,-8.108,-8.022,31
+PPARG,2PRG,BRL (rosiglitazone),-7.811,-7.552,-7.522,27
+FXR_NR1H4,4OIV,XX9 (agonist),-7.609,-7.603,-7.579,25
+EGFR,1M17,AQ4 (erlotinib),-7.348,-7.178,-7.147,25
+CASP3,1GFW,MSI (inhibitor),-6.566,-6.454,-6.356,26
+MMP9,1GKC,NFH site (Zn removed for prep),-6.988,-6.848,-6.029,42
+TNF,2AZ5,307 (SPD-304),-7.261,-7.252,-7.164,26
+AKT1,3O96,IQO (inhibitor),-8.232,-8.23,-8.223,25

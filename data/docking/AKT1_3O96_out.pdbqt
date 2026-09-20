@@ -1,0 +1,610 @@
+MODEL 1
+REMARK VINA RESULT:    -8.232      0.000      0.000
+REMARK INTER + INTRA:         -11.691
+REMARK INTER:                 -11.601
+REMARK INTRA:                  -0.091
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.172  -3.458  12.502  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       6.051  -3.659  13.265  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       6.692  -3.030  11.291  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.856  -4.804  12.289  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       9.163  -4.570  11.966  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       7.902  -5.486  13.464  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       7.218  -5.659  11.212  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       7.305  -5.014  10.012  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       5.883  -5.774  11.459  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       7.855  -7.033  11.087  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1       9.096  -7.022  11.659  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       8.084  -7.299   9.761  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       6.964  -8.097  11.708  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1       6.940  -8.428  12.885  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       6.122  -8.692  10.837  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.973  -2.324  13.128  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       8.939  -1.910  12.268  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       8.652  -2.834  14.200  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       7.129  -1.157  13.583  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       6.053  -1.010  12.760  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       6.616  -1.394  14.822  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       7.957   0.115  13.585  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       7.733   0.837  14.713  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       7.655   0.921  12.541  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       9.285  -0.129  13.537  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -8.230      1.649      3.106
+REMARK INTER + INTRA:         -11.689
+REMARK INTER:                 -11.336
+REMARK INTRA:                  -0.353
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.123  -1.965  12.845  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       8.310  -1.958  13.530  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       6.215  -1.431  13.723  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       6.728  -3.414  12.579  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       5.793  -3.776  13.507  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       6.088  -3.503  11.382  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       7.888  -4.389  12.627  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       8.216  -4.638  13.928  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       8.993  -3.805  12.086  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       7.588  -5.705  11.928  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1       7.618  -5.527  10.573  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       6.295  -6.071  12.203  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       8.563  -6.783  12.372  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1       9.739  -6.877  12.049  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       8.036  -7.693  13.218  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.256  -1.017  11.660  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       6.035  -0.535  11.312  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       7.664  -1.752  10.580  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       8.230   0.114  11.887  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       7.946   0.746  13.061  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       9.497  -0.368  12.025  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       8.160   1.102  10.738  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       9.395   1.572  10.426  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       7.398   2.179  11.037  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       7.657   0.552   9.610  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -8.223      1.570      2.905
+REMARK INTER + INTRA:         -11.679
+REMARK INTER:                 -11.397
+REMARK INTRA:                  -0.282
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       8.035  -4.465  12.186  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       7.747  -4.835  10.898  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       9.355  -4.096  12.152  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.911  -5.694  13.080  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       8.397  -5.372  14.316  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       6.598  -5.983  13.284  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       8.641  -6.915  12.556  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       9.793  -6.522  11.936  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       7.895  -7.504  11.580  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       8.978  -7.920  13.645  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1       7.985  -7.937  14.584  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1      10.090  -7.487  14.321  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       9.207  -9.300  13.050  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1      10.132  -9.633  12.322  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       8.281 -10.217  13.404  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.202  -3.234  12.521  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       6.092  -3.599  13.213  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       6.731  -2.716  11.346  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       7.965  -2.163  13.266  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       8.623  -2.711  14.326  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       8.930  -1.625  12.470  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       7.013  -1.085  13.749  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       7.680   0.066  14.020  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       6.375  -1.442  14.887  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       6.066  -0.780  12.834  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -8.138      2.838      6.403
+REMARK INTER + INTRA:         -11.559
+REMARK INTER:                 -11.394
+REMARK INTRA:                  -0.165
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.877  -4.764  12.389  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       7.980  -5.325  13.636  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       9.172  -4.490  12.027  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.133  -3.439  12.518  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       6.747  -3.046  11.267  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       5.972  -3.629  13.200  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       7.945  -2.334  13.164  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       8.929  -1.934  12.305  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       8.600  -2.830  14.250  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       7.105  -1.129  13.555  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1       6.574  -1.319  14.800  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       6.020  -1.053  12.720  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       7.931   0.146  13.489  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1       8.732   0.536  14.326  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       7.737   0.874  12.369  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.328  -5.819  11.439  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       7.323  -5.341  10.167  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       6.009  -6.013  11.747  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       8.054  -7.142  11.507  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       8.380  -7.560  10.251  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       9.236  -7.003  12.168  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       7.182  -8.180  12.188  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       7.888  -9.312  12.447  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       6.130  -8.545  11.421  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       6.690  -7.751  13.371  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -8.128      2.889      6.379
+REMARK INTER + INTRA:         -11.545
+REMARK INTER:                 -11.265
+REMARK INTRA:                  -0.280
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.751  -4.545  11.941  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       9.104  -4.354  12.053  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       7.531  -4.670  10.593  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.045  -3.281  12.419  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       6.539  -2.637  11.325  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       5.958  -3.616  13.164  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       7.937  -2.330  13.193  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       8.964  -1.920  12.392  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       8.531  -3.001  14.219  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       7.195  -1.111  13.716  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1       6.853  -1.304  15.026  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       5.999  -1.000  13.055  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       8.033   0.145  13.538  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1       8.873   0.574  14.315  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       7.801   0.806  12.383  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.403  -5.870  12.607  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       6.113  -6.200  12.337  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       7.443  -5.680  13.961  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       8.331  -7.003  12.236  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       8.664  -6.921  10.918  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       9.504  -6.901  12.920  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       7.664  -8.336  12.521  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       8.581  -9.337  12.564  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       6.768  -8.672  11.565  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       7.016  -8.351  13.706  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -8.099      3.161      6.236
+REMARK INTER + INTRA:         -11.505
+REMARK INTER:                 -11.346
+REMARK INTRA:                  -0.158
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       6.908  -3.716  12.590  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       6.249  -3.638  11.390  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       5.926  -3.560  13.533  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.859  -2.529  12.696  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       8.076  -2.276  14.021  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       9.077  -2.870  12.199  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       7.351  -1.269  12.022  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       6.081  -1.008  12.448  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       7.240  -1.487  10.682  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       8.227  -0.056  12.291  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1       9.528  -0.448  12.439  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       7.884   0.480  13.506  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       8.076   0.972  11.181  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1       7.052   1.564  10.874  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       9.218   1.234  10.510  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.481  -5.122  12.723  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       8.277  -5.195  13.821  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       8.320  -5.334  11.665  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       6.433  -6.210  12.752  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       6.574  -6.963  13.879  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       5.186  -5.668  12.824  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       6.560  -7.089  11.522  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       5.646  -8.092  11.547  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       7.777  -7.673  11.438  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       6.359  -6.407  10.373  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -8.096      1.562      2.269
+REMARK INTER + INTRA:         -11.500
+REMARK INTER:                 -11.075
+REMARK INTRA:                  -0.425
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       6.783  -3.583  12.363  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       6.268  -3.622  13.633  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       5.687  -3.438  11.551  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.420  -4.934  12.059  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       6.454  -5.754  11.548  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       8.330  -4.798  11.057  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       8.060  -5.600  13.261  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       7.105  -6.271  13.969  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       8.529  -4.645  14.111  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       9.172  -6.566  12.884  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1      10.247  -5.871  12.404  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       8.754  -7.336  11.829  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       9.554  -7.434  14.072  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1      10.198  -7.083  15.050  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       9.101  -8.704  13.999  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.639  -2.329  12.239  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       7.586  -1.855  10.966  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       8.945  -2.694  12.424  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       7.282  -1.243  13.226  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       5.937  -1.029  13.217  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       7.585  -1.635  14.495  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       8.013   0.040  12.877  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       8.123   0.846  13.964  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       7.366   0.753  11.927  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       9.269  -0.182  12.430  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -8.055      1.357      3.025
+REMARK INTER + INTRA:         -11.443
+REMARK INTER:                 -11.255
+REMARK INTRA:                  -0.188
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       8.070  -4.656  12.613  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       9.334  -4.359  12.175  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       8.239  -5.045  13.917  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.557  -5.857  11.825  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       6.238  -6.036  12.134  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       7.571  -5.573  10.495  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       8.316  -7.142  12.094  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       9.489  -6.850  12.727  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       8.680  -7.709  10.910  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       7.528  -8.133  12.936  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1       6.565  -8.729  12.170  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       6.832  -7.445  13.898  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       8.455  -9.159  13.565  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1       9.152  -9.969  12.971  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       8.491  -9.120  14.915  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       7.250  -3.372  12.599  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       6.032  -3.593  13.158  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       6.986  -3.059  11.294  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       7.936  -2.201  13.262  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       8.586  -2.616  14.386  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       8.900  -1.690  12.447  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       6.918  -1.133  13.616  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       7.516   0.077  13.763  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       6.287  -1.399  14.782  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       5.968  -0.985  12.667  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -7.896      2.153      3.721
+REMARK INTER + INTRA:         -11.217
+REMARK INTER:                 -10.777
+REMARK INTRA:                  -0.441
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       6.614  -6.392  11.633  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       5.583  -7.204  12.030  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       6.352  -6.122  10.314  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       7.911  -7.191  11.703  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       8.152  -7.719  10.466  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       8.955  -6.352  11.937  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       7.895  -8.306  12.730  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       7.106  -9.325  12.279  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1       7.291  -7.864  13.868  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       9.280  -8.848  13.042  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1      10.144  -8.519  12.034  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       9.235 -10.219  13.028  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1       9.769  -8.334  14.386  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1      10.141  -7.196  14.637  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       9.755  -9.257  15.371  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       6.518  -5.089  12.416  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       7.341  -5.135  13.496  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       5.256  -5.007  12.938  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       6.795  -3.856  11.588  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       7.823  -4.093  10.726  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       5.720  -3.556  10.807  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       7.137  -2.687  12.493  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       6.985  -1.506  11.839  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       8.419  -2.732  12.921  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       6.347  -2.628  13.588  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -7.844      2.698      4.043
+REMARK INTER + INTRA:         -11.144
+REMARK INTER:                 -10.779
+REMARK INTRA:                  -0.365
+REMARK UNBOUND:                -0.091
+REMARK  Name = PFOA_perfluorooctanoic_acid_CID1036_multiconf
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK    4  A    between atoms: C_6  and  C_7
+REMARK    5  A    between atoms: C_7  and  C_8
+REMARK    6  A    between atoms: C_8  and  C_9
+REMARK    7  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.557  -6.122  12.611  0.00  0.00    +0.384 C 
+ATOM      2  F   UNL     1       6.541  -6.206  13.527  0.00  0.00    -0.192 F 
+ATOM      3  F   UNL     1       6.958  -6.393  11.407  0.00  0.00    -0.192 F 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       8.560  -7.233  12.899  0.00  0.00    +0.384 C 
+ATOM      5  F   UNL     1       7.950  -8.431  12.653  0.00  0.00    -0.192 F 
+ATOM      6  F   UNL     1       9.584  -7.170  12.006  0.00  0.00    -0.192 F 
+BRANCH   4   7
+ATOM      7  C   UNL     1       9.100  -7.226  14.316  0.00  0.00    +0.389 C 
+ATOM      8  F   UNL     1       8.125  -6.796  15.169  0.00  0.00    -0.192 F 
+ATOM      9  F   UNL     1      10.095  -6.301  14.416  0.00  0.00    -0.192 F 
+BRANCH   7  10
+ATOM     10  C   UNL     1       9.595  -8.589  14.771  0.00  0.00    +0.414 C 
+ATOM     11  F   UNL     1      10.345  -9.164  13.782  0.00  0.00    -0.186 F 
+ATOM     12  F   UNL     1       8.519  -9.426  14.924  0.00  0.00    -0.186 F 
+BRANCH  10  13
+ATOM     13  C   UNL     1      10.380  -8.471  16.067  0.00  0.00    +0.430 C 
+ATOM     14  O   UNL     1      11.561  -8.175  16.177  0.00  0.00    -0.239 OA
+ATOM     15  O   UNL     1       9.651  -8.707  17.179  0.00  0.00    -0.239 OA
+ENDBRANCH  10  13
+ENDBRANCH   7  10
+ENDBRANCH   4   7
+ENDBRANCH   1   4
+BRANCH   1  16
+ATOM     16  C   UNL     1       8.052  -4.682  12.585  0.00  0.00    +0.387 C 
+ATOM     17  F   UNL     1       9.328  -4.638  12.121  0.00  0.00    -0.192 F 
+ATOM     18  F   UNL     1       8.133  -4.245  13.879  0.00  0.00    -0.192 F 
+BRANCH  16  19
+ATOM     19  C   UNL     1       7.168  -3.744  11.798  0.00  0.00    +0.409 C 
+ATOM     20  F   UNL     1       7.463  -3.828  10.471  0.00  0.00    -0.189 F 
+ATOM     21  F   UNL     1       5.862  -4.115  11.909  0.00  0.00    -0.189 F 
+BRANCH  19  22
+ATOM     22  C   UNL     1       7.358  -2.319  12.282  0.00  0.00    +0.460 C 
+ATOM     23  F   UNL     1       6.849  -1.431  11.390  0.00  0.00    -0.165 F 
+ATOM     24  F   UNL     1       8.664  -2.005  12.442  0.00  0.00    -0.165 F 
+ATOM     25  F   UNL     1       6.739  -2.082  13.461  0.00  0.00    -0.165 F 
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL

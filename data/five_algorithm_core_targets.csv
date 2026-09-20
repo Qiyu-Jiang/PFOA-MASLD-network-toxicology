@@ -1,0 +1,11 @@
+﻿Node,Votes_of_5,Tier,Algorithms
+TNF,5,strict-core (5/5),MCC+MNC+Degree+Closeness+Radiality
+IL6,5,strict-core (5/5),MCC+MNC+Degree+Closeness+Radiality
+TP53,5,strict-core (5/5),MCC+MNC+Degree+Closeness+Radiality
+ALB,5,strict-core (5/5),MCC+MNC+Degree+Closeness+Radiality
+IL1B,5,strict-core (5/5),MCC+MNC+Degree+Closeness+Radiality
+INS,5,strict-core (5/5),MCC+MNC+Degree+Closeness+Radiality
+AKT1,4,extended-core (>=4/5),MNC+Degree+Closeness+Radiality
+PPARG,4,extended-core (>=4/5),MNC+Degree+Closeness+Radiality
+EGFR,4,extended-core (>=4/5),MNC+Degree+Closeness+Radiality
+BCL2,4,extended-core (>=4/5),MNC+Degree+Closeness+Radiality

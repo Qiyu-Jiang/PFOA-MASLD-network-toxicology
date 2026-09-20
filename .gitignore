@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+*.o
+*.dcd
+*.chk
+.env

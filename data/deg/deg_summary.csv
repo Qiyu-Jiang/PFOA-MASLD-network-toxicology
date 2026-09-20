@@ -1,0 +1,6 @@
+"dataset","contrast","n_probe","n_deg","n_up","n_down"
+"GSE89632","NASH_vs_HC",29377,634,271,363
+"GSE89632","SS_vs_HC",29377,605,197,408
+"GSE89632","NASH_vs_SS",29377,16,14,2
+"GSE48452","NASH_vs_Control",22148,22,19,3
+"GSE48452","NAFL_vs_Control",22148,0,0,0

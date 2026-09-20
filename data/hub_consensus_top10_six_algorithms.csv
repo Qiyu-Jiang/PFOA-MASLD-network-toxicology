@@ -1,0 +1,61 @@
+﻿Method,Rank,Node,Score,Source
+MCC,1,TNF,1.192440068280598e+41,independent impl. (plugin export clamped)
+MCC,2,IL6,1.1924400682805978e+41,independent impl. (plugin export clamped)
+MCC,3,TP53,1.1924400682804843e+41,independent impl. (plugin export clamped)
+MCC,4,ALB,1.1924400682798953e+41,independent impl. (plugin export clamped)
+MCC,5,IL1B,1.192440068250085e+41,independent impl. (plugin export clamped)
+MCC,6,CASP3,1.1924400682455573e+41,independent impl. (plugin export clamped)
+MCC,7,JUN,1.192440068216421e+41,independent impl. (plugin export clamped)
+MCC,8,TGFB1,1.1924400680739974e+41,independent impl. (plugin export clamped)
+MCC,9,MMP9,1.1924400679568347e+41,independent impl. (plugin export clamped)
+MCC,10,INS,1.1924400677908798e+41,independent impl. (plugin export clamped)
+MNC,1,INS,232.0,official plugin
+MNC,2,TNF,230.0,official plugin
+MNC,3,IL6,229.0,official plugin
+MNC,4,AKT1,221.0,official plugin
+MNC,5,ALB,220.0,official plugin
+MNC,6,IL1B,211.0,official plugin
+MNC,7,TP53,208.0,official plugin
+MNC,8,PPARG,193.0,official plugin
+MNC,9,EGFR,176.0,official plugin
+MNC,10,BCL2,159.0,official plugin
+Degree,1,INS,232.0,official plugin
+Degree,2,TNF,230.0,official plugin
+Degree,3,IL6,229.0,official plugin
+Degree,4,AKT1,222.0,official plugin
+Degree,5,ALB,220.0,official plugin
+Degree,6,IL1B,211.0,official plugin
+Degree,7,TP53,209.0,official plugin
+Degree,8,PPARG,193.0,official plugin
+Degree,9,EGFR,176.0,official plugin
+Degree,10,BCL2,160.0,official plugin
+Closeness,1,INS,341.83333,official plugin
+Closeness,2,TNF,341.33333,official plugin
+Closeness,3,IL6,340.16667,official plugin
+Closeness,4,AKT1,337.5,official plugin
+Closeness,5,ALB,335.66667,official plugin
+Closeness,6,TP53,331.0,official plugin
+Closeness,7,IL1B,330.5,official plugin
+Closeness,8,PPARG,321.16667,official plugin
+Closeness,9,EGFR,313.5,official plugin
+Closeness,10,BCL2,305.33333,official plugin
+Radiality,1,TNF,5.49781,official plugin
+Radiality,2,INS,5.49561,official plugin
+Radiality,3,IL6,5.48684,official plugin
+Radiality,4,AKT1,5.48246,official plugin
+Radiality,5,ALB,5.46711,official plugin
+Radiality,6,TP53,5.45395,official plugin
+Radiality,7,IL1B,5.4386,official plugin
+Radiality,8,PPARG,5.39474,official plugin
+Radiality,9,EGFR,5.36842,official plugin
+Radiality,10,BCL2,5.33114,official plugin
+EPC,1,INS,128.877,official plugin
+EPC,2,IL6,127.338,official plugin
+EPC,3,IL1B,126.815,official plugin
+EPC,4,AKT1,125.397,official plugin
+EPC,5,ALB,125.307,official plugin
+EPC,6,TP53,124.173,official plugin
+EPC,7,TNF,123.857,official plugin
+EPC,8,PPARG,121.151,official plugin
+EPC,9,JUN,118.977,official plugin
+EPC,10,NFKB1,117.681,official plugin

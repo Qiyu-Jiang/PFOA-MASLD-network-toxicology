@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript."
+title: "PFOA-MASLD network toxicology: integrated multi-omics, machine learning, docking and MD analyses"
+authors:
+  - family-names: "Kong"
+    given-names: "Aoran"
+  - family-names: "Tong"
+    given-names: "Wei"
+  - family-names: "Li"
+    given-names: "Huantian"
+  - family-names: "Jiang"
+    given-names: "Qiyu"
+version: "1.0"
+date-released: "2026-09-17"

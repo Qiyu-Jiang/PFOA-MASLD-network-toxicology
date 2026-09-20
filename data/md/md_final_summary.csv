@@ -1,0 +1,4 @@
+﻿key,frames,ns,rec_rmsd_c_plateau,rec_rmsd_c_sd,rec_rmsd_f_plateau,rec_rmsd_f_sd,lig_rmsd_c_plateau,lig_rmsd_c_max,lig_rmsd_f_plateau,lig_internal_plateau,contacts_plateau,contacts_min_after2ns,polar_plateau,hb_frames_pct,min_dist_plateau
+AKT1,1999,99.95,3.07,0.16,3.0,0.15,3.48,4.83,2.37,1.19,497.0,407,5.0,100.0,1.8
+PPARA,1999,99.95,2.78,0.16,2.69,0.17,3.94,5.49,4.2,1.75,402.0,309,0.5,0.0,2.28
+PPARG,1999,99.95,3.16,0.16,2.54,0.17,3.87,4.87,4.31,1.02,449.0,324,2.4,92.2,1.87

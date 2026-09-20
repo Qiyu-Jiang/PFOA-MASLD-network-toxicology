@@ -1,0 +1,1592 @@
+﻿Symbol	N_Sources	Sources	DEG_logFC	DEG_adjP	GC_NAFLD_rel	GC_MASLD_rel	DisGeNET	CTD_NAFLD
+IL1B	4	CTD-NAFLD+DEG+DisGeNET+GeneCards	-1.663	2.3e-07	34.53	26.93	Y	Y
+PNPLA3	4	CTD-NAFLD+DEG+DisGeNET+GeneCards	1.25	7.2e-07	101.93	69.37	Y	Y
+IL6	3	DEG+DisGeNET+GeneCards	-3.163	3.7e-10	45.12	39.05	Y	
+IL1RN	3	CTD-NAFLD+DEG+GeneCards	-1.841	4.5e-07	11.32			Y
+SREBF1	3	CTD-NAFLD+DisGeNET+GeneCards			46.12	50.63	Y	Y
+PPARA	3	CTD-NAFLD+DisGeNET+GeneCards			57.59	40.67	Y	Y
+TNF	3	CTD-NAFLD+DisGeNET+GeneCards			45.12	23.62	Y	Y
+PPARG	3	CTD-NAFLD+DisGeNET+GeneCards			57.15	26.27	Y	Y
+TGFB1	3	CTD-NAFLD+DisGeNET+GeneCards			29.67	15.37	Y	Y
+GPT	3	CTD-NAFLD+DisGeNET+GeneCards			36.7	23.62	Y	Y
+ADIPOQ	3	CTD-NAFLD+DisGeNET+GeneCards			45.56	27.02	Y	Y
+LEP	3	CTD-NAFLD+DisGeNET+GeneCards			25.65	39.07	Y	Y
+CYP2E1	3	CTD-NAFLD+DisGeNET+GeneCards			30.16		Y	Y
+FAS	3	CTD-NAFLD+DisGeNET+GeneCards			13.04		Y	Y
+NR1H4	3	CTD-NAFLD+DisGeNET+GeneCards			57.13	26.27	Y	Y
+INS	3	CTD-NAFLD+DisGeNET+GeneCards			43.22	23.62	Y	Y
+MTTP	3	CTD-NAFLD+DisGeNET+GeneCards			22.37		Y	Y
+ALDH2	3	CTD-NAFLD+DisGeNET+GeneCards			19.51	26.9	Y	Y
+MIR21	2	DEG+GeneCards	-2.114	6.9e-18	117.91	87.77		
+SOCS2	2	DEG+GeneCards	-2.12	1.5e-15		15.41		
+SOCS3	2	DEG+GeneCards	-3.211	1.7e-15	12.55	17.0		
+MYC	2	DEG+GeneCards	-2.893	4.4e-15	11.35			
+PPRC1	2	DEG+GeneCards	-1.486	1.2e-14	11.23			
+PHLDA1	2	DEG+GeneCards	-1.85	6e-13	9.13			
+NFIL3	2	DEG+GeneCards	-1.074	6.7e-13	11.28			
+FOS	2	DEG+GeneCards	-2.886	7.1e-13		15.41		
+GADD45G	2	DEG+GeneCards	-2.735	2.3e-12		15.41		
+PEG10	2	DEG+GeneCards	2.148	1e-11	11.35			
+ATF3	2	DEG+GeneCards	-1.593	1.1e-11		15.39		
+CYP7A1	2	DEG+GeneCards	3.06	1.6e-11	23.09			
+AKR1B10	2	DEG+GeneCards	3.315	1.6e-11	11.38			
+NR4A1	2	DEG+GeneCards	-2.537	1.9e-11		15.41		
+KLF6	2	DEG+GeneCards	-1.763	2.4e-11	19.64			
+CCL2	2	DEG+GeneCards	-1.69	9.2e-11	29.99	15.43		
+PTGS2	2	DEG+GeneCards	-2.171	1.2e-10	13.47			
+NAMPT	2	DEG+GeneCards	-1.246	1.7e-10	10.22			
+SIK1	2	DEG+GeneCards	-2.403	2.1e-10	11.1			
+TNFRSF1A	2	DEG+GeneCards	-1.113	2.5e-10	11.18			
+RTP3	2	DEG+GeneCards	1.985	3.8e-10		15.41		
+RAB26	2	DEG+GeneCards	1.217	5.6e-10		15.41		
+IL1RL1	2	DEG+GeneCards	-3.118	8.4e-10	7.62			
+CX3CR1	2	DEG+GeneCards	1.154	1.1e-09	8.84			
+SOCS1	2	DEG+GeneCards	-2.055	1.6e-09	12.56			
+ME1	2	DEG+GeneCards	1.318	2.6e-09	11.32			
+PFKFB3	2	DEG+GeneCards	-1.126	3.3e-09	11.32			
+FOXO1	2	DEG+GeneCards	-1.127	3.6e-09	40.55	15.45		
+NR5A2	2	DEG+GeneCards	-1.048	3.9e-09	9.93			
+NR4A2	2	DEG+GeneCards	-1.746	1.2e-08		15.41		
+PROK2	2	DEG+GeneCards	-1.976	6.9e-09	11.32			
+IER3	2	DEG+GeneCards	-1.831	1e-08		15.41		
+MOGAT2	2	DEG+GeneCards	1.361	1.2e-08	11.32			
+RTP4	2	DEG+GeneCards	1.423	1.9e-08		15.41		
+SPTLC3	2	DEG+GeneCards	1.243	3.8e-08	11.31			
+IL10	2	DEG+GeneCards	-1.193	4.7e-08	12.57			
+PIM3	2	DEG+GeneCards	-1.48	4.5e-06	11.1			
+EGR1	2	DEG+GeneCards	-1.683	7.6e-08	12.55			
+SIRT4	2	DEG+GeneCards	1.065	1.9e-07	11.31			
+LIF	2	CTD-NAFLD+DEG	-1.527	3e-07				Y
+MIR146B	2	DEG+GeneCards	-1.975	3.9e-07	30.47			
+SERPINE1	2	DEG+GeneCards	-1.514	3.9e-07	21.17	15.45		
+ERN1	2	DEG+GeneCards	-1.181	5.3e-07	20.54	15.41		
+GPAM	2	DEG+GeneCards	1.495	5.8e-07	21.15			
+ACE2	2	DEG+GeneCards	1.067	9.2e-07	11.32			
+ADAMTS4	2	DEG+GeneCards	-1.378	1.1e-06	11.26			
+IGFBP1	2	DEG+GeneCards	-2.253	1.2e-06	13.05	15.41		
+PTX3	2	DEG+GeneCards	-1.763	1.3e-06	11.37			
+CHI3L1	2	DEG+GeneCards	-1.125	1.6e-06	10.51			
+RASD1	2	DEG+GeneCards	-2.079	2.1e-06		15.39		
+AFP	2	DEG+GeneCards	1.121	2.2e-06	11.92			
+ANGPTL4	2	DEG+GeneCards	-1.148	2.6e-06	9.82			
+CRYAA	2	DEG+GeneCards	1.6	2.7e-06		15.41		
+TEAD4	2	DEG+GeneCards	-1.118	3.7e-06	11.26			
+GGT1	2	DEG+GeneCards	1.007	3.8e-06	18.76			
+FADS1	2	DEG+GeneCards	1.316	1e-05	19.97			
+GCK	2	DEG+GeneCards	2.12	1.5e-05	11.26			
+CDKN1A	2	DEG+GeneCards	-1.128	1.6e-05	19.63	12.07		
+FABP4	2	DEG+GeneCards	1.226	1.8e-05	11.38			
+GOLM1	2	DEG+GeneCards	1.093	1.8e-05		15.27		
+DBI	2	DEG+GeneCards	1.019	1.9e-05	9.79			
+SERPINA1	2	DEG+GeneCards	-1.037	2.5e-05	12.57			
+FADS2	2	DEG+GeneCards	1.492	3.6e-05	19.87			
+HNF4A	2	DEG+GeneCards	1.138	4e-05	30.85			
+UBD	2	DEG+GeneCards	1.154	4e-05		15.32		
+MCAM	2	DEG+GeneCards	-1.162	4.3e-05		15.41		
+TMPRSS2	2	DEG+GeneCards	-1.174	0.00011	11.18			
+IRF1	2	DEG+GeneCards	-1.029	0.00023	6.74			
+IRS2	2	DEG+GeneCards	-1.101	0.00024	13.05			
+SERPINB2	2	CTD-NAFLD+DEG	-1.148	0.0023				Y
+CCL20	2	DEG+GeneCards	-1.133	0.0012	11.36	15.4		
+SAA1	2	DEG+GeneCards	-1.474	0.0013	11.35			
+NRG1	2	DEG+GeneCards	-1.001	0.0014	12.52			
+MIOX	2	DEG+GeneCards	-1.018	0.012	11.1			
+CPT1A	2	CTD-NAFLD+GeneCards			24.04	15.45		Y
+NFE2L2	2	CTD-NAFLD+GeneCards			22.18	39.04		Y
+CAT	2	CTD-NAFLD+GeneCards			11.38			Y
+NQO1	2	CTD-NAFLD+GeneCards			11.36			Y
+LDLR	2	CTD-NAFLD+GeneCards			11.37	15.32		Y
+AHR	2	CTD-NAFLD+DisGeNET					Y	Y
+TRIB3	2	CTD-NAFLD+GeneCards			11.36	9.93		Y
+SCARB1	2	CTD-NAFLD+GeneCards			12.01			Y
+XBP1	2	CTD-NAFLD+GeneCards			28.97			Y
+ACE	2	CTD-NAFLD+GeneCards			11.26			Y
+PEMT	2	CTD-NAFLD+GeneCards			30.81			Y
+GSTP1	2	CTD-NAFLD+GeneCards			12.57			Y
+PTEN	2	CTD-NAFLD+GeneCards			10.38			Y
+ALDH1A1	2	CTD-NAFLD+GeneCards			11.36			Y
+RCAN2	2	CTD-NAFLD+GeneCards			11.1			Y
+ABCB4	2	CTD-NAFLD+GeneCards				23.72		Y
+MMP1	2	CTD-NAFLD+GeneCards			11.32			Y
+TM6SF2	2	DisGeNET+GeneCards			59.2	68.87	Y	
+FGF21	2	DisGeNET+GeneCards			44.78	51.94	Y	
+NLRP3	2	DisGeNET+GeneCards			30.71	12.38	Y	
+PPARGC1A	2	DisGeNET+GeneCards			41.12		Y	
+SIRT1	2	DisGeNET+GeneCards			34.11	26.98	Y	
+FTO	2	DisGeNET+GeneCards			21.21	15.44	Y	
+HFE	2	DisGeNET+GeneCards			29.44		Y	
+AKT1	2	DisGeNET+GeneCards			12.04		Y	
+SAMM50	2	DisGeNET+GeneCards			10.73		Y	
+LEPR	2	DisGeNET+GeneCards			30.81	15.46	Y	
+MTHFR	2	DisGeNET+GeneCards			13.3		Y	
+SOD2	2	DisGeNET+GeneCards			21.13		Y	
+FOSB	1	DEG	-4.688	6.9e-18				
+AXUD1	1	DEG	-1.816	6.9e-18				
+AGPAT9	1	DEG	-1.665	4.3e-17				
+CEBPD	1	DEG	-1.42	3.2e-16				
+FAM107A	1	DEG	-2.232	3.6e-16				
+GADD45B	1	DEG	-1.483	5.3e-16				
+JUNB	1	DEG	-2.856	8.5e-16				
+EPHA2	1	DEG	-1.881	6e-15				
+TYMS	1	DEG	1.562	6.1e-15				
+ADAMTS1	1	DEG	-2.432	1.2e-14				
+PPP1R15A	1	DEG	-1.744	3.1e-14				
+FMO1	1	DEG	2.341	4.5e-14				
+ARID5B	1	DEG	-1.21	6.5e-14				
+PELI1	1	DEG	-1.119	7.4e-14				
+MAP3K8	1	DEG	-1.574	8.8e-14				
+ZWINT	1	DEG	1.318	1.5e-13				
+APOLD1	1	DEG	-2.637	2.1e-13				
+FOSL2	1	DEG	-1.975	2.5e-13				
+APOL3	1	DEG	1.69	2.8e-13				
+WNT5A	1	DEG	1.576	3.5e-13				
+RGS2	1	DEG	-1.731	3.5e-13				
+GINS2	1	DEG	1.953	3.5e-13				
+KCNK1	1	DEG	-1.749	3.1e-07				
+RNF43	1	DEG	1.832	4.6e-13				
+PIM1	1	DEG	-2.03	4.7e-13				
+ELL	1	DEG	-1.059	4.8e-13				
+RFXDC2	1	DEG	1.026	5.4e-13				
+ITPRIP	1	DEG	-1.053	2.1e-10				
+BCAR3	1	DEG	1.069	1.4e-12				
+TP53I3	1	DEG	1.709	2.3e-12				
+THBS1	1	DEG	-1.807	2.3e-12				
+FILIP1L	1	DEG	-1.763	2.7e-12				
+C18ORF56	1	DEG	1.82	2.8e-12				
+BACH2	1	DEG	-1.756	3.2e-12				
+TMEM169	1	DEG	1.493	5e-12				
+PNRC1	1	DEG	-2.102	5.4e-12				
+IL4R	1	DEG	-1.87	5.4e-12				
+ZC3H12A	1	DEG	-2.347	5.8e-12				
+LOC55908	1	DEG	1.67	6.1e-12				
+CCDC121	1	DEG	1.234	6.3e-12				
+C13ORF15	1	DEG	-1.598	7.1e-12				
+LRRC20	1	DEG	1.068	7.7e-12				
+HBEGF	1	DEG	-1.83	1e-11				
+SLITRK3	1	DEG	-2.897	1.1e-11				
+NAT8B	1	DEG	1.896	1.3e-11				
+C10ORF140	1	DEG	2.338	1.3e-11				
+KLF11	1	DEG	-1.731	2.9e-09				
+BCL3	1	DEG	-1.389	1.9e-11				
+BCL6	1	DEG	-1.903	1.1e-09				
+C21ORF63	1	DEG	-1.317	2.4e-11				
+NLF2	1	DEG	-2.038	2.4e-11				
+LOC730417	1	DEG	2.519	2.7e-11				
+PLAUR	1	DEG	-1.572	2.1e-07				
+CDC2	1	DEG	1.064	2.7e-11				
+RALGDS	1	DEG	-1.648	3.7e-11				
+IFIT2	1	DEG	1.325	3.8e-11				
+SERTAD1	1	DEG	-1.174	4e-11				
+CDH19	1	DEG	-1.361	4.4e-11				
+CYR61	1	DEG	-1.823	5e-11				
+SIPA1L2	1	DEG	-1.381	5.3e-11				
+C17ORF96	1	DEG	-1.607	5.6e-11				
+CKAP2	1	DEG	1.444	8.5e-11				
+FOSL1	1	DEG	-2.411	1.2e-10				
+FBXO27	1	DEG	1.057	1.4e-10				
+HMMR	1	DEG	1.136	1.5e-10				
+TRIM15	1	DEG	-1.831	1.5e-10				
+IRAK3	1	DEG	-1.195	2.2e-10				
+ASPM	1	DEG	1.327	2.2e-10				
+RBPMS	1	DEG	-1.351	2.3e-10				
+RGS1	1	DEG	-1.348	2.5e-10				
+GPRC5A	1	DEG	-1.802	2.6e-10				
+IFIT3	1	DEG	1.355	2.6e-10				
+MAFF	1	DEG	-1.894	2.6e-10				
+C1ORF203	1	DEG	1.416	2.7e-10				
+S100P	1	DEG	-2.041	3.3e-10				
+MAL2	1	DEG	1.057	3.3e-10				
+C8ORF47	1	DEG	1.564	3.4e-10				
+IL8	1	DEG	-2.897	3.8e-10				
+ETNK1	1	DEG	-1.367	3.9e-10				
+KRT222	1	DEG	1.904	3.9e-10				
+ARL14	1	DEG	-2.066	4.1e-10				
+P4HA1	1	DEG	-1.524	3.6e-08				
+ZFP36	1	DEG	-1.716	6.7e-10				
+C10ORF10	1	DEG	-1.795	7e-10				
+VNN3	1	DEG	-1.809	7.2e-10				
+SLC2A3	1	DEG	-1.504	7.3e-10				
+ODZ3	1	DEG	-1.645	7.4e-10				
+TBX10	1	DEG	1.355	7.7e-10				
+NOL3	1	DEG	1.19	8.6e-10				
+RMND1	1	DEG	1.073	8.7e-10				
+SDC4	1	DEG	-1.395	1e-09				
+TRIM14	1	DEG	1.655	1.1e-09				
+SPRY4	1	DEG	-1.293	1.2e-09				
+C9ORF91	1	DEG	1.002	1.3e-09				
+HIVEP1	1	DEG	-1.32	1.3e-09				
+FLJ42280	1	DEG	1.216	1.4e-09				
+PADI4	1	DEG	-1.632	1.9e-09				
+CEBPA	1	DEG	1.735	2e-09				
+JUN	1	DEG	-1.189	2.3e-09				
+SNORD19	1	DEG	-1.004	2.4e-09				
+JUB	1	DEG	1.442	2.4e-09				
+LYST	1	DEG	-1.365	2.6e-09				
+CALCA	1	DEG	-2.125	2.6e-09				
+RRS1	1	DEG	-1.579	2.7e-09				
+TMEM20	1	DEG	1.06	2.9e-09				
+FGF14	1	DEG	-1.863	3e-09				
+DDO	1	DEG	1.089	3.1e-09				
+C14ORF143	1	DEG	1.051	3.3e-09				
+UPP1	1	DEG	-1.053	3.5e-09				
+GLT8D1	1	DEG	1.028	3.9e-09				
+LARP1B	1	DEG	-1.158	4e-09				
+KIAA0040	1	DEG	-1.85	4.1e-09				
+HAS2	1	DEG	-1.854	4.4e-09				
+CCL14	1	DEG	1.47	4.5e-09				
+C19ORF25	1	DEG	1.071	5e-09				
+SLC29A1	1	DEG	1.372	5.1e-09				
+PDP2	1	DEG	1.029	5.2e-09				
+PALMD	1	DEG	1.095	5.6e-09				
+SKP2	1	DEG	1.107	5.7e-09				
+MARVELD3	1	DEG	1.088	6e-09				
+CREB5	1	DEG	-1.69	6.2e-09				
+NR4A3	1	DEG	-1.524	7e-09				
+ISM1	1	DEG	1.155	7.1e-09				
+GRIA3	1	DEG	1.629	1.3e-08				
+SNORD11B	1	DEG	-1.536	7.5e-09				
+ETS2	1	DEG	-1.086	7.7e-09				
+CRISPLD2	1	DEG	-1.367	8.1e-09				
+ZNF187	1	DEG	1.117	8.7e-09				
+MT1A	1	DEG	-2.339	8.9e-09				
+SLC11A1	1	DEG	-1.71	9.1e-09				
+RND1	1	DEG	-2.223	1e-08				
+ONECUT1	1	DEG	1.479	1e-08				
+FBXO2	1	DEG	1.241	1.1e-08				
+SLC25A34	1	DEG	1.809	1.2e-08				
+FRAT1	1	DEG	1.392	3.2e-07				
+SNORA41	1	DEG	-1.311	1.2e-08				
+IVNS1ABP	1	DEG	-1.253	1.2e-08				
+FAM13A	1	DEG	1.35	5.9e-06				
+TNFSF10	1	DEG	1.009	1.3e-08				
+C2CD4B	1	DEG	-1.592	1.6e-08				
+NFE2	1	DEG	-1.736	1.6e-08				
+KLF4	1	DEG	-1.872	1.6e-08				
+CLCF1	1	DEG	-1.387	1.7e-08				
+LGALS4	1	DEG	1.856	2.1e-08				
+ANKS4B	1	DEG	1.451	2.1e-08				
+KBTBD3	1	DEG	1.122	2.4e-08				
+TUBB6	1	DEG	-1.436	2.4e-08				
+CASP4	1	DEG	-1.674	4.6e-08				
+KIAA0133	1	DEG	-1.29	3e-08				
+EEF1A2	1	DEG	2.288	3.1e-08				
+LRRN3	1	DEG	1.17	3.2e-08				
+MANBAL	1	DEG	1.037	3.4e-08				
+C11ORF52	1	DEG	1.492	3.4e-08				
+KLF5	1	DEG	-1.423	3.5e-08				
+MBNL2	1	DEG	-1.643	3.5e-08				
+ZNF331	1	DEG	-1.018	3.6e-08				
+RASL10A	1	DEG	-1.497	3.6e-08				
+P2RY2	1	DEG	1.328	3.7e-08				
+PCBP4	1	DEG	1.227	3.9e-08				
+EDAR	1	DEG	1.091	4e-08				
+NCOA7	1	DEG	-1.041	4e-08				
+CISH	1	DEG	-1.581	4.2e-08				
+SLC7A6OS	1	DEG	1.21	4.3e-08				
+DBP	1	DEG	1.879	4.3e-08				
+C9ORF125	1	DEG	1.246	4.5e-08				
+S100A12	1	DEG	-2.137	4.6e-08				
+THAP2	1	DEG	1.041	4.7e-08				
+FYTTD1	1	DEG	-1.057	5.1e-08				
+THBD	1	DEG	-1.755	5.2e-08				
+PDE11A	1	DEG	1.4	6.2e-07				
+FOXC1	1	DEG	-1.618	5.4e-08				
+HDC	1	DEG	-1.226	5.6e-08				
+RALGPS1	1	DEG	1.146	5.9e-08				
+FPR1	1	DEG	-1.599	6.1e-08				
+ZMAT3	1	DEG	1.075	6.2e-08				
+TNFSF14	1	DEG	-1.643	2.1e-07				
+ZNF878	1	DEG	-1.441	7.2e-08				
+TLR3	1	DEG	1.178	7.3e-08				
+LOC730101	1	DEG	1.532	7.4e-08				
+MIR564	1	DEG	1.119	7.4e-08				
+IGFBP2	1	DEG	-1.542	7.6e-08				
+ANKRD29	1	DEG	1.248	8.1e-08				
+C5AR1	1	DEG	-1.276	8.1e-08				
+MIDN	1	DEG	-1.315	8.1e-08				
+FPR2	1	DEG	-1.552	8.2e-08				
+LPAR1	1	DEG	-1.087	8.5e-08				
+FLJ36031	1	DEG	-1.252	8.7e-08				
+SLC12A1	1	DEG	1.686	8.7e-08				
+DLEU1	1	DEG	1.381	8.8e-08				
+ACTG2	1	DEG	-2.087	9e-08				
+NAGS	1	DEG	1.384	9.1e-08				
+RRP12	1	DEG	-1.3	9.8e-08				
+PMS2	1	DEG	1.286	1.1e-07				
+PPAN	1	DEG	-1.04	1.2e-07				
+NFKB2	1	DEG	-1.076	1.2e-07				
+SPC25	1	DEG	1.096	1.4e-07				
+PAQR4	1	DEG	1.192	1.5e-07				
+AGFG2	1	DEG	1.092	1.5e-07				
+PTGER2	1	DEG	-1.037	1.5e-07				
+ATP2B4	1	DEG	-1.286	1.6e-07				
+MTMR4	1	DEG	1.036	1.7e-07				
+CDH23	1	DEG	-1.252	1.7e-07				
+URB2	1	DEG	-1.266	1.8e-07				
+OSGIN1	1	DEG	1.457	1.8e-07				
+MGC12965	1	DEG	1.027	1.9e-07				
+MMP19	1	DEG	-1.482	3.9e-07				
+TLR7	1	DEG	1.058	1.9e-07				
+SAMD3	1	DEG	1.461	2.1e-07				
+EMP1	1	DEG	-1.715	2.2e-07				
+EGR3	1	DEG	-1.658	2.3e-07				
+DGCR5	1	DEG	1.264	2.4e-07				
+MND1	1	DEG	1.171	2.4e-07				
+C19ORF23	1	DEG	-2.071	2.5e-07				
+SPSB1	1	DEG	-1.657	2.5e-07				
+CDC42EP3	1	DEG	-1.02	2.6e-07				
+TNFRSF10D	1	DEG	-1.428	2.7e-07				
+KDELR3	1	DEG	1.032	2.8e-07				
+LOC148413	1	DEG	1.083	3e-07				
+RAB27A	1	DEG	-1.366	3e-07				
+FLJ41603	1	DEG	1.28	3.1e-07				
+SERPINB9	1	DEG	-1.369	3.1e-07				
+TGM2	1	DEG	-1.264	3.1e-07				
+FRMD7	1	DEG	1.056	3.2e-07				
+DHODH	1	DEG	-1.213	3.2e-07				
+SLC22A4	1	DEG	-1.046	3.2e-07				
+BTN3A1	1	DEG	1.088	3.4e-07				
+IER5L	1	DEG	-1.477	3.4e-07				
+TMEM63A	1	DEG	1.011	3.5e-07				
+ABCC5	1	DEG	1.075	3.5e-07				
+IL18RAP	1	DEG	-1.216	3.5e-07				
+HIST1H2AC	1	DEG	1.09	3.6e-07				
+NFKBIZ	1	DEG	-1.479	3.6e-07				
+NINL	1	DEG	1.295	4.2e-07				
+FLJ45139	1	DEG	-1.379	4.2e-07				
+PRO0628	1	DEG	-1.077	4.2e-07				
+LONRF2	1	DEG	-1.065	4.2e-07				
+IL8RB	1	DEG	-1.109	4.3e-07				
+FAM168A	1	DEG	1.164	4.3e-07				
+PAQR7	1	DEG	1.094	4.3e-07				
+CNTNAP2	1	DEG	1.179	4.3e-07				
+PTTG1	1	DEG	1.167	4.4e-07				
+MYBPH	1	DEG	-1.644	4.5e-07				
+GIMAP2	1	DEG	1.115	0.00012				
+FCAR	1	DEG	-1.914	4.7e-07				
+SNORA1	1	DEG	-1.057	4.7e-07				
+ELFN1	1	DEG	1.132	4.8e-07				
+GRHL1	1	DEG	-1.478	5e-07				
+NBL1	1	DEG	-1.017	5.2e-07				
+C14ORF80	1	DEG	1.558	5.2e-07				
+C19ORF44	1	DEG	1.061	5.3e-07				
+GRAMD4	1	DEG	-1.297	5.3e-07				
+TGFB3	1	DEG	-1.776	5.5e-07				
+MYADM	1	DEG	-1.177	5.5e-07				
+PRPF40B	1	DEG	1.046	5.7e-07				
+DKFZP564J102	1	DEG	1.042	5.7e-07				
+CHRNB1	1	DEG	1.188	6.4e-07				
+FANCL	1	DEG	1.063	6.7e-07				
+TNFAIP6	1	DEG	-1.975	7e-07				
+TBX3	1	DEG	1.21	7.1e-07				
+DIO3OS	1	DEG	-1.713	7.2e-07				
+PVR	1	DEG	-1.026	7.4e-07				
+C12ORF27	1	DEG	1.067	8.5e-07				
+SLC22A7	1	DEG	1.393	8.8e-07				
+BAZ1A	1	DEG	-1.003	9e-07				
+AKAP12	1	DEG	-1.15	9.2e-07				
+ELF3	1	DEG	-1.177	9.3e-07				
+PRSS3	1	DEG	1.414	9.3e-07				
+SPATA18	1	DEG	1.27	9.4e-07				
+C14ORF43	1	DEG	-1.471	9.5e-07				
+AMACR	1	DEG	1.093	1e-06				
+CENPQ	1	DEG	1.076	1.1e-06				
+MAP3K14	1	DEG	-1.135	1.1e-06				
+CD3G	1	DEG	1.308	1.2e-06				
+ZNF385B	1	DEG	1.173	1.2e-06				
+TNFRSF12A	1	DEG	-1.829	1.2e-06				
+ZNF219	1	DEG	1.002	1.2e-06				
+ZNF295	1	DEG	-1.433	1.2e-06				
+CXCL9	1	DEG	1.366	1.2e-06				
+ABCG8	1	DEG	1.048	1.3e-06				
+GJA1	1	DEG	-1.014	1.3e-06				
+GRAP	1	DEG	1.091	1.4e-06				
+AP1S1	1	DEG	1.051	1.4e-06				
+CMTM2	1	DEG	-1.541	1.5e-06				
+DBNDD1	1	DEG	1.057	1.5e-06				
+FREM2	1	DEG	1.224	1.5e-06				
+PITPNM2	1	DEG	1.02	1.5e-06				
+ADAM19	1	DEG	-1.165	1.6e-06				
+BRCA1	1	DEG	1.292	3.4e-06				
+UNC119	1	DEG	1.011	1.7e-06				
+MGC13057	1	DEG	1.047	1.9e-06				
+KIAA1161	1	DEG	1.037	1.9e-06				
+ITLN2	1	DEG	-1.208	2e-06				
+XKR4	1	DEG	-1.012	2e-06				
+CASC5	1	DEG	1.016	2.1e-06				
+PKIB	1	DEG	1.132	2.1e-06				
+SLC7A2	1	DEG	-1.163	2.1e-06				
+GFPT2	1	DEG	-1.538	2.2e-06				
+OAS1	1	DEG	1.177	2.4e-06				
+PCDH24	1	DEG	1.42	2.5e-06				
+GPM6B	1	DEG	-1.358	2.5e-06				
+ANKRD5	1	DEG	1.017	2.6e-06				
+TTC8	1	DEG	1.132	2.6e-06				
+MMP25	1	DEG	-1.042	2.6e-06				
+SLC16A13	1	DEG	1.012	2.6e-06				
+BATF3	1	DEG	-1.299	2.7e-06				
+CSF3	1	DEG	-1.254	2.8e-06				
+GPER	1	DEG	1.573	2.8e-06				
+TMEM45B	1	DEG	1.099	2.9e-06				
+DKFZP686O24166	1	DEG	-1.034	3e-06				
+LOC154761	1	DEG	-1.473	3e-06				
+STC1	1	DEG	-1.156	3.1e-06				
+EPHA1	1	DEG	1.11	3.3e-06				
+ABCC6P1	1	DEG	1.26	3.4e-06				
+MAMDC4	1	DEG	1.019	3.4e-06				
+NOL4	1	DEG	1.182	3.6e-06				
+LRRC31	1	DEG	1.176	3.7e-06				
+S100A8	1	DEG	-1.575	3.9e-06				
+PCDH18	1	DEG	1.073	4e-06				
+TMEM98	1	DEG	1.038	4.4e-06				
+LOC201229	1	DEG	1.005	4.5e-06				
+EIF5	1	DEG	-1.063	5.3e-06				
+KCNE4	1	DEG	-1.186	5.5e-06				
+C2ORF54	1	DEG	1.509	5.5e-06				
+VNN2	1	DEG	-1.046	5.6e-06				
+TNFAIP8L3	1	DEG	-1.111	5.7e-06				
+HTR2B	1	DEG	1.052	5.8e-06				
+PRKCZ	1	DEG	1.086	6.1e-06				
+AMOT	1	DEG	1.026	6.5e-06				
+PIGR	1	DEG	1.018	6.5e-06				
+MLF1	1	DEG	-1.175	7.1e-06				
+GSTCD	1	DEG	1.206	7.2e-06				
+HIST1H2BF	1	DEG	1.22	7.3e-06				
+GEM	1	DEG	-1.16	7.4e-06				
+SYNE2	1	DEG	-1.02	7.6e-06				
+FRMD6	1	DEG	-1.592	0.00021				
+ORAI3	1	DEG	1.323	7.9e-06				
+FCGBP	1	DEG	1.358	8.1e-06				
+CDH15	1	DEG	1.829	8.4e-06				
+BIRC3	1	DEG	-1.299	1.7e-05				
+AVPR1A	1	DEG	-1.628	8.5e-06				
+ORC6L	1	DEG	1.048	8.7e-06				
+UBE2T	1	DEG	1.015	9e-06				
+JAKMIP2	1	DEG	1.09	9e-06				
+SNORA67	1	DEG	-1.008	9.5e-06				
+ODF3L1	1	DEG	-1.32	1.1e-05				
+SBNO2	1	DEG	-1.005	1.1e-05				
+LOC388796	1	DEG	-1.041	1.2e-05				
+MTHFD2	1	DEG	-1.062	1.2e-05				
+LRIG3	1	DEG	1.178	1.3e-05				
+C1ORF51	1	DEG	1.03	1.3e-05				
+LOC100131726	1	DEG	-1.397	1.3e-05				
+ANKRD56	1	DEG	1.07	1.3e-05				
+SLC7A1	1	DEG	-1.543	1.3e-05				
+OSM	1	DEG	-1.034	1.4e-05				
+TMEM233	1	DEG	-1.132	1.4e-05				
+NCAPG2	1	DEG	1.056	1.4e-05				
+SPHK2	1	DEG	1.301	1.6e-05				
+C6ORF129	1	DEG	1.225	1.6e-05				
+CD274	1	DEG	-1.328	1.7e-05				
+ANXA9	1	DEG	1.288	1.7e-05				
+RBP5	1	DEG	1.08	1.7e-05				
+NCRNA00152	1	DEG	-1.439	1.8e-05				
+OAS2	1	DEG	1.581	1.8e-05				
+TAGLN	1	DEG	-1.52	2e-05				
+C18ORF10	1	DEG	1.101	2e-05				
+TMEM92	1	DEG	1.108	2e-05				
+GPNMB	1	DEG	1.014	2e-05				
+TBX15	1	DEG	1.153	2.1e-05				
+SLC25A42	1	DEG	1.275	2.2e-05				
+RNF214	1	DEG	1.041	2.2e-05				
+DUSP10	1	DEG	-1.309	2.5e-05				
+ANXA13	1	DEG	1.408	2.5e-05				
+TIPARP	1	DEG	-1.252	2.5e-05				
+OXCT2	1	DEG	-1.063	2.6e-05				
+SLC22A11	1	DEG	1.28	2.6e-05				
+FJX1	1	DEG	-1.131	2.6e-05				
+RPL39L	1	DEG	1.129	2.6e-05				
+SNORD11	1	DEG	-1.245	2.8e-05				
+SOX17	1	DEG	-1.111	3.7e-05				
+UGT1A6	1	DEG	1.209	4.2e-05				
+RAC1	1	DEG	-1.096	4.4e-05				
+SLCO1A2	1	DEG	-1.504	4.9e-05				
+TRHDE	1	DEG	1.178	5.2e-05				
+PROL1	1	DEG	1.047	5.2e-05				
+CNN1	1	DEG	-1.483	5.8e-05				
+C2CD4A	1	DEG	-1.252	6.4e-05				
+GNAO1	1	DEG	1.275	0.00013				
+GPR3	1	DEG	-1.039	6.9e-05				
+MIR886	1	DEG	-1.341	7.1e-05				
+ARID3C	1	DEG	1.075	7.5e-05				
+RET	1	DEG	1.129	8e-05				
+C19ORF59	1	DEG	-1.098	8.1e-05				
+DNMT3L	1	DEG	1.06	8.1e-05				
+ROM1	1	DEG	-1.023	8.3e-05				
+CIT	1	DEG	-1.064	0.00011				
+FAM124B	1	DEG	1.151	0.00011				
+EPB49	1	DEG	1.064	0.00012				
+C3ORF14	1	DEG	1.006	0.00012				
+MAK	1	DEG	-1.026	0.00012				
+FAM47E	1	DEG	1.015	0.00013				
+SNORD53	1	DEG	-1.025	0.00014				
+USP18	1	DEG	1.023	0.00014				
+LIPN	1	DEG	-1.012	0.00015				
+FAM169B	1	DEG	-1.286	0.00015				
+MYH11	1	DEG	-1.606	0.00018				
+RAX2	1	DEG	-1.15	0.00016				
+EFHD1	1	DEG	-1.065	0.00016				
+IFI6	1	DEG	1.226	0.00016				
+ABHD8	1	DEG	1.026	0.00017				
+PMP22	1	DEG	-1.086	0.00017				
+ABCC6	1	DEG	1.018	0.00017				
+SYT7	1	DEG	1.079	0.00017				
+ACBD5	1	DEG	1.101	0.00019				
+C20ORF77	1	DEG	-1.438	0.0002				
+C2ORF82	1	DEG	1.339	0.00021				
+CCL3	1	DEG	-1.174	0.00021				
+CHST9	1	DEG	1.051	0.00022				
+CA12	1	DEG	1.15	0.00022				
+APOBEC3A	1	DEG	-1.402	0.00025				
+PDLIM3	1	DEG	-1.098	0.00025				
+KIF22	1	DEG	1.035	0.00026				
+ACSM1	1	DEG	1.024	0.00027				
+MRAP	1	DEG	1.182	0.00027				
+SORCS1	1	DEG	-1.012	0.00036				
+COL5A3	1	DEG	1.106	0.00036				
+TCAP	1	DEG	1.218	0.0004				
+DAND5	1	DEG	-1.016	0.00041				
+DHRS13	1	DEG	-1.022	0.00045				
+BCL2A1	1	DEG	-1.235	0.00045				
+SEMA4B	1	DEG	-1.053	0.00047				
+CH25H	1	DEG	-1.036	0.00048				
+KANK4	1	DEG	1.019	0.00049				
+MTUS1	1	DEG	-1.178	0.00052				
+ALDH1A3	1	DEG	-1.389	0.00062				
+MT1B	1	DEG	-1.705	0.00055				
+C7ORF54	1	DEG	-1.021	0.00057				
+PAPPA	1	DEG	-1.089	0.00059				
+RGS16	1	DEG	-1.198	0.00066				
+VCAN	1	DEG	-1.025	0.00067				
+RFX2	1	DEG	-1.049	0.00071				
+MB	1	DEG	1.113	0.00086				
+ICA1	1	DEG	1.113	0.00098				
+MAPK4	1	DEG	-1.304	0.001				
+LAMC2	1	DEG	-1.047	0.0011				
+C15ORF52	1	DEG	1.023	0.0011				
+FLNC	1	DEG	-1.246	0.0012				
+RPGR	1	DEG	-1.027	0.0013				
+VIL1	1	DEG	-1.293	0.0014				
+SNORA71A	1	DEG	-1.029	0.0014				
+IP6K3	1	DEG	1.178	0.0015				
+C6ORF142	1	DEG	1.398	0.0015				
+IL24	1	DEG	-1.232	0.0015				
+SLC5A12	1	DEG	1.39	0.0019				
+SNORA75	1	DEG	-1.222	0.0019				
+PREI3	1	DEG	-1.01	0.002				
+SHD	1	DEG	1.03	0.002				
+PRRX1	1	DEG	-1.008	0.0021				
+JMJD5	1	DEG	1.104	0.0023				
+DCDC2	1	DEG	1.056	0.0025				
+RCAN1	1	DEG	-1.007	0.0027				
+FLJ45445	1	DEG	-1.196	0.0047				
+MIR221	1	DEG	-1.119	0.0063				
+STMN2	1	DEG	1.033	0.0064				
+LRRC19	1	DEG	1.143	0.0068				
+GFRA3	1	DEG	-1.252	0.0079				
+ITGB1BP3	1	DEG	-1.049	0.0091				
+PJCG6	1	DEG	-1.061	0.015				
+SNORA36B	1	DEG	-1.152	0.018				
+FLJ42957	1	DEG	-1.01	0.019				
+DEFA1	1	DEG	1.073	0.021				
+LIN28	1	DEG	-1.187	0.022				
+DEFB118	1	DEG	-1.007	0.023				
+LOC440570	1	DEG	-1.014	0.025				
+OR4F5	1	DEG	-1.075	0.026				
+LOC650293	1	DEG	-1.064	0.03				
+SBK2	1	DEG	-1.02	0.036				
+POM121L4P	1	DEG	-1.069	0.039				
+GAGE2B	1	DEG	-1.011	0.04				
+GAGE12J	1	DEG	-1.108	0.047				
+OR4F21	1	DEG	-1.065	0.047				
+MIR548I1	1	DEG	-1.027	0.049				
+PDK4	1	CTD-NAFLD						Y
+CD14	1	CTD-NAFLD						Y
+PRKCA	1	CTD-NAFLD						Y
+IL1A	1	CTD-NAFLD						Y
+ABCC2	1	CTD-NAFLD						Y
+CYP1A2	1	CTD-NAFLD						Y
+STC2	1	CTD-NAFLD						Y
+IL4	1	CTD-NAFLD						Y
+VLDLR	1	CTD-NAFLD						Y
+CYP17A1	1	CTD-NAFLD						Y
+GSTA1	1	CTD-NAFLD						Y
+CSF2	1	CTD-NAFLD						Y
+PRKCD	1	CTD-NAFLD						Y
+GSTM1	1	CTD-NAFLD						Y
+MIR122	1	GeneCards			129.51	87.77		
+H19	1	GeneCards			119.78	87.77		
+MIRLET7C	1	GeneCards			118.56	87.77		
+MEG3	1	GeneCards			118.14	87.77		
+GAS5	1	GeneCards			116.55	87.77		
+MIR34A	1	GeneCards			109.27	87.77		
+MIR140	1	GeneCards			108.8	87.77		
+MIR126	1	GeneCards			108.77	87.77		
+MIR17	1	GeneCards			108.36	87.77		
+MIRLET7D	1	GeneCards			107.49	87.77		
+MALAT1	1	GeneCards			105.75	87.77		
+NEAT1	1	GeneCards			100.45	87.77		
+MIR26A1	1	GeneCards			100.19	87.77		
+MIR132	1	GeneCards			99.02	87.77		
+MIR27B	1	GeneCards			98.99	87.77		
+MIR130A	1	GeneCards			98.99	87.77		
+MIR200C	1	GeneCards			98.99	87.77		
+PVT1	1	GeneCards			98.98	87.77		
+MIR33A	1	GeneCards			98.98	87.77		
+MIR30A	1	GeneCards			98.97	87.77		
+RMRP	1	GeneCards			98.94	87.77		
+MIR22	1	GeneCards			98.94	87.77		
+MIR16-1	1	GeneCards			98.75	87.77		
+MIR29C	1	GeneCards			98.75	87.77		
+MIR30D	1	GeneCards			98.75	87.77		
+MIR31	1	GeneCards			98.75	87.77		
+MIR107	1	GeneCards			98.75	87.77		
+MIR203A	1	GeneCards			98.75	87.77		
+MIR10B	1	GeneCards			98.75	87.77		
+MIRLET7E	1	GeneCards			98.75	87.77		
+MIR183	1	GeneCards			98.75	87.77		
+MIR151A	1	GeneCards			98.75	87.77		
+MIR95	1	GeneCards			98.75	87.77		
+MIR154	1	GeneCards			98.75	87.77		
+MIR187	1	GeneCards			98.75	87.77		
+PTK2	1	GeneCards			89.83	87.77		
+HOTAIR	1	GeneCards			89.81	87.77		
+HULC	1	GeneCards			89.81	87.77		
+LINC01260	1	GeneCards			89.79	87.77		
+MNX1-AS1	1	GeneCards			89.71	87.77		
+ALB	1	GeneCards			47.24	23.62		
+MBOAT7	1	GeneCards			45.32	44.08		
+MIR33B	1	GeneCards			44.84	23.62		
+ATG7	1	GeneCards			44.13	15.06		
+ZFAS1	1	GeneCards			44.07			
+CT70	1	GeneCards			44.0			
+GLP1R	1	GeneCards			42.47	29.06		
+MIR155	1	GeneCards			42.45	23.62		
+KRT18	1	GeneCards			42.19			
+YARS1	1	GeneCards			41.9			
+PRMT7	1	GeneCards			41.9			
+UCA1	1	GeneCards			41.9			
+AIRN	1	GeneCards			41.9			
+LOC126805688	1	GeneCards			41.9			
+NAFLD1	1	GeneCards			41.9			
+TLR4	1	GeneCards			41.49	15.44		
+GPBAR1	1	GeneCards			41.42	15.2		
+APOC3	1	GeneCards			40.98	17.01		
+HSD17B13	1	GeneCards			40.26	42.65		
+RBP4	1	GeneCards			40.12			
+UCP2	1	GeneCards			40.12			
+MLXIPL	1	GeneCards			39.5	14.72		
+AHSG	1	GeneCards			39.01			
+CETP	1	GeneCards			38.74			
+MIR29A	1	GeneCards			36.18	23.62		
+MIR223	1	GeneCards			34.98	23.62		
+MIR15B	1	GeneCards			34.45	23.62		
+MIR7-3HG	1	GeneCards			34.31			
+MT-TP	1	GeneCards			34.17			
+SREBF2	1	GeneCards			33.13			
+GCKR	1	GeneCards			32.95	41.17		
+FAS-AS1	1	GeneCards			32.79			
+SMAD5-AS1	1	GeneCards			32.63			
+SCD	1	GeneCards			32.39	15.27		
+FASN	1	GeneCards			32.2			
+LINC01672	1	GeneCards			31.75			
+PPARD	1	GeneCards			31.6			
+HMOX1	1	GeneCards			31.32			
+PCSK9	1	GeneCards			31.09	30.05		
+DGAT2	1	GeneCards			30.52	15.06		
+LIPA	1	GeneCards			30.36			
+LPL	1	GeneCards			30.33			
+CASP1	1	GeneCards			30.11			
+MIR451A	1	GeneCards			30.02			
+FABP1	1	GeneCards			29.69			
+CBS	1	GeneCards			29.61			
+MAPK8	1	GeneCards			29.43			
+PNPLA2	1	GeneCards			29.36	15.37		
+TIMP1	1	GeneCards			29.09			
+FXR1	1	GeneCards			28.99			
+MIR216A	1	GeneCards			28.99			
+EZH2	1	GeneCards			28.79			
+MAP3K5	1	GeneCards			28.44			
+KLB	1	GeneCards			28.16	39.18		
+SLC22A5	1	GeneCards			28.03			
+MIR192	1	GeneCards			25.64	23.62		
+MIR142	1	GeneCards			25.57	23.62		
+MIR150	1	GeneCards			25.37	23.62		
+MIR193A	1	GeneCards			25.36	23.62		
+MIR9-1	1	GeneCards			25.32	23.62		
+MIR181B1	1	GeneCards			25.31	23.62		
+MIR148A	1	GeneCards			25.31	23.62		
+MIR130B	1	GeneCards			25.31	23.62		
+MIR423	1	GeneCards			25.28	23.62		
+MIR212	1	GeneCards			25.25	23.62		
+MIR214	1	GeneCards			25.11	23.62		
+MIR144	1	GeneCards			24.66	23.62		
+MIR222	1	GeneCards			24.64	23.62		
+MIR200A	1	GeneCards			24.64	23.62		
+APOB	1	GeneCards			23.53	39.15		
+MIR199A1	1	GeneCards			23.39	23.62		
+MIR483	1	GeneCards			23.14	23.62		
+ACACA	1	GeneCards			23.1			
+PLIN2	1	GeneCards			22.84			
+DGAT1	1	GeneCards			22.83	15.27		
+CRP	1	GeneCards			22.6			
+NFKB1	1	GeneCards			22.58			
+APOA1	1	GeneCards			22.37			
+FGF19	1	GeneCards			22.11			
+KEAP1	1	GeneCards			21.86	15.43		
+ACOX1	1	GeneCards			21.85			
+IGF1	1	GeneCards			21.84	23.8		
+MTOR	1	GeneCards			21.81	15.45		
+CTNNB1	1	GeneCards			21.71	15.43		
+SHBG	1	GeneCards			21.69			
+VDR	1	GeneCards			21.64			
+HIF1A	1	GeneCards			21.58			
+ANGPTL8	1	GeneCards			21.57	17.02		
+NCAN	1	GeneCards			21.53			
+LINC-ROR	1	GeneCards			21.24			
+MIR181D	1	GeneCards			21.19			
+PGR-AS1	1	GeneCards			21.19			
+SELENOP	1	GeneCards			21.17			
+CD36	1	GeneCards			21.17	25.41		
+HMGCR	1	GeneCards			21.16			
+HADHA	1	GeneCards			21.16			
+CPT2	1	GeneCards			21.15			
+LYPLAL1	1	GeneCards			21.12			
+GCG	1	GeneCards			21.1			
+INSR	1	GeneCards			21.07	15.44		
+LGALS3	1	GeneCards			21.01	13.21		
+GDF15	1	GeneCards			20.92	30.25		
+FABP6	1	GeneCards			20.88			
+ANGPTL3	1	GeneCards			20.7	15.45		
+TERT	1	GeneCards			20.55			
+ADIPOR2	1	GeneCards			20.51	15.39		
+NR1I2	1	GeneCards			20.48			
+HAMP	1	GeneCards			20.2			
+C3	1	GeneCards			20.2			
+ACLY	1	GeneCards			20.19			
+ACACB	1	GeneCards			20.15			
+CNR1	1	GeneCards			20.14			
+PCK2	1	GeneCards			20.11			
+NPC1L1	1	GeneCards			19.94			
+CCR2	1	GeneCards			19.92			
+SLC5A2	1	GeneCards			19.92			
+SNORD15A	1	GeneCards			19.91			
+NR1H2	1	GeneCards			19.91			
+STAT3	1	GeneCards			19.89			
+AGTR1	1	GeneCards			19.86			
+CD38	1	GeneCards			19.83			
+CHKB-CPT1B	1	GeneCards			19.83			
+HMGB1	1	GeneCards			19.82			
+CTH	1	GeneCards			19.81			
+ELOVL5	1	GeneCards			19.78			
+TRIB1	1	GeneCards			19.78			
+GATAD2A	1	GeneCards			19.74			
+STK25	1	GeneCards			19.73			
+BMP4	1	GeneCards			19.73			
+CERNA3	1	GeneCards			19.72			
+FAM3A	1	GeneCards			19.72			
+MIR4668	1	GeneCards			19.72			
+GSK3B	1	GeneCards			19.72			
+LECT2	1	GeneCards			19.72			
+RETN	1	GeneCards			19.66			
+PLIN5	1	GeneCards			19.64			
+ACTA2	1	GeneCards			19.64			
+AGT	1	GeneCards			19.64			
+CIDEC	1	GeneCards			19.5			
+SUCNR1	1	GeneCards			19.48			
+C1QTNF1	1	GeneCards			19.46			
+EIF6	1	GeneCards			19.43			
+MIR373	1	GeneCards			19.37			
+SQSTM1	1	GeneCards			19.34			
+UCP1	1	GeneCards			19.34	11.22		
+PPP1R3B	1	GeneCards			19.33			
+TCF7L2	1	GeneCards			19.33			
+MIR494	1	GeneCards			19.32			
+LPIN1	1	GeneCards			19.32	15.2		
+XDH	1	GeneCards			19.3			
+GLO1	1	GeneCards			19.23			
+GREM1	1	GeneCards			19.22			
+MIR34C	1	GeneCards			19.04			
+APOA5	1	GeneCards			19.0	15.44		
+CYP2R1	1	GeneCards			18.99			
+ADAMTSL2	1	GeneCards			18.94			
+MIR133B	1	GeneCards			18.94			
+MIAT	1	GeneCards			18.85			
+MIR208B	1	GeneCards			18.74			
+SARM1	1	GeneCards			18.71			
+FBN1	1	GeneCards			18.11	15.45		
+AGER	1	GeneCards			18.1			
+SLC27A5	1	GeneCards			18.08			
+METTL3	1	GeneCards			18.06			
+LIVAR	1	GeneCards			17.84			
+TSC2	1	GeneCards			17.8			
+MIR511	1	GeneCards			17.73			
+MIR517A	1	GeneCards			17.73			
+MIR302A	1	GeneCards			17.66			
+FAM3B	1	GeneCards			17.66			
+MIR769	1	GeneCards			17.63			
+CYTOR	1	GeneCards			17.58			
+LPCAT3	1	GeneCards			17.15			
+IRS1	1	GeneCards			13.46			
+CASP3	1	GeneCards			13.31			
+HSPA5	1	GeneCards			13.31			
+GSR	1	GeneCards			13.29			
+MMP9	1	GeneCards			13.05			
+LCN2	1	GeneCards			13.05			
+NFKBIA	1	GeneCards			13.04			
+CTSD	1	GeneCards			13.04	15.35		
+ELANE	1	GeneCards			13.03			
+SQLE	1	GeneCards			13.03			
+APOE	1	GeneCards			12.58			
+IGFBP3	1	GeneCards			12.58			
+ESR1	1	GeneCards			12.58			
+CYP3A4	1	GeneCards			12.58			
+MMP2	1	GeneCards			12.58			
+TLR2	1	GeneCards			12.57			
+CYBB	1	GeneCards			12.57			
+NOS2	1	GeneCards			12.57			
+UGT1A1	1	GeneCards			12.57			
+EGFR	1	GeneCards			12.57	11.22		
+TJP1	1	GeneCards			12.57			
+ANXA2	1	GeneCards			12.57			
+THBS2	1	GeneCards			12.57			
+GPX4	1	GeneCards			12.57			
+CYP24A1	1	GeneCards			12.57			
+FGFR4	1	GeneCards			12.57			
+BCL2	1	GeneCards			12.56			
+TLR9	1	GeneCards			12.56			
+SCAP	1	GeneCards			12.56	11.73		
+IGF1R	1	GeneCards			12.55			
+MYD88	1	GeneCards			12.55			
+CIDEA	1	GeneCards			12.55			
+NOX4	1	GeneCards			12.55	9.93		
+NOS3	1	GeneCards			12.54			
+DIO1	1	GeneCards			12.54			
+ERBB3	1	GeneCards			12.54			
+ARG2	1	GeneCards			12.52			
+MARCKS	1	GeneCards			12.51			
+TNFAIP3	1	GeneCards			12.5			
+NDUFV1	1	GeneCards			12.5			
+PSME1	1	GeneCards			12.5			
+BLVRA	1	GeneCards			12.48			
+PCSK7	1	GeneCards			12.46	12.01		
+SLC25A48	1	GeneCards			12.46			
+COL1A1	1	GeneCards			12.04			
+SOD1	1	GeneCards			12.03			
+LIPC	1	GeneCards			12.03			
+ACADM	1	GeneCards			12.01			
+HP	1	GeneCards			12.0			
+PC	1	GeneCards			11.99			
+PRKAA2	1	GeneCards			11.99			
+CES1	1	GeneCards			11.94			
+ALPP	1	GeneCards			11.92			
+POLG	1	GeneCards			11.89			
+ACADVL	1	GeneCards			11.84			
+SLC25A13	1	GeneCards			11.84			
+FABP2	1	GeneCards			11.84			
+GPT2	1	GeneCards			11.75			
+RARRES2	1	GeneCards			11.38			
+SIRT6	1	GeneCards			11.38			
+GNMT	1	GeneCards			11.38			
+RELA	1	GeneCards			11.38			
+APCS	1	GeneCards			11.38			
+GC	1	GeneCards			11.38			
+DDIT3	1	GeneCards			11.38			
+CD163	1	GeneCards			11.38			
+SIRT3	1	GeneCards			11.38			
+GSTT1	1	GeneCards			11.37			
+VEGFA	1	GeneCards			11.37			
+CAV1	1	GeneCards			11.37			
+NRG4	1	GeneCards			11.37			
+EPAS1	1	GeneCards			11.37			
+CYP1A1	1	GeneCards			11.37			
+SPP1	1	GeneCards			11.37	15.39		
+CD44	1	GeneCards			11.37			
+CYP27A1	1	GeneCards			11.37			
+ESM1	1	GeneCards			11.37	15.39		
+BAX	1	GeneCards			11.37			
+MIR379	1	GeneCards			11.37			
+TREM2	1	GeneCards			11.37	15.53		
+CP	1	GeneCards			11.37			
+MAPK3	1	GeneCards			11.37			
+HR	1	GeneCards			11.37			
+STK11	1	GeneCards			11.37	15.32		
+CYP27B1	1	GeneCards			11.37			
+CXCL10	1	GeneCards			11.37	13.26		
+PLIN1	1	GeneCards			11.37			
+CASP9	1	GeneCards			11.36			
+IRGM	1	GeneCards			11.36			
+ABCG2	1	GeneCards			11.36			
+FSTL3	1	GeneCards			11.36			
+DDX3X	1	GeneCards			11.36			
+BGLAP	1	GeneCards			11.36			
+ABCA1	1	GeneCards			11.36			
+CTSB	1	GeneCards			11.36			
+PKLR	1	GeneCards			11.36			
+ELAVL1	1	GeneCards			11.36			
+IGFBP7	1	GeneCards			11.36			
+FTH1	1	GeneCards			11.36	15.32		
+IRF3	1	GeneCards			11.36			
+PDCD1	1	GeneCards			11.36	15.4		
+IFNG	1	GeneCards			11.36			
+VIM	1	GeneCards			11.36			
+ALDOB	1	GeneCards			11.36			
+IL32	1	GeneCards			11.36	15.2		
+FBXW7	1	GeneCards			11.36			
+SLC2A1	1	GeneCards			11.36			
+CPS1	1	GeneCards			11.36			
+DNM1L	1	GeneCards			11.36			
+PDHB	1	GeneCards			11.36			
+KHK	1	GeneCards			11.36			
+TXNIP	1	GeneCards			11.36	15.37		
+CMKLR1	1	GeneCards			11.36			
+S100A6	1	GeneCards			11.36			
+HDAC2	1	GeneCards			11.36			
+BCAT1	1	GeneCards			11.36			
+RPS3A	1	GeneCards			11.36			
+RPS8	1	GeneCards			11.36			
+MIR20A	1	GeneCards			11.36			
+SNORD49A	1	GeneCards			11.36			
+DNMT3A	1	GeneCards			11.35			
+RIPK1	1	GeneCards			11.35			
+HNF1A	1	GeneCards			11.35			
+CLU	1	GeneCards			11.35			
+ULK1	1	GeneCards			11.35			
+PIN1	1	GeneCards			11.35			
+UCP3	1	GeneCards			11.35			
+TBC1D1	1	GeneCards			11.35			
+LUM	1	GeneCards			11.35			
+HMGCS2	1	GeneCards			11.35			
+TMPO	1	GeneCards			11.35			
+FOXO3	1	GeneCards			11.35			
+INSIG1	1	GeneCards			11.35			
+HSPB1	1	GeneCards			11.35			
+SLC2A2	1	GeneCards			11.35			
+IGF2	1	GeneCards			11.35			
+DUSP1	1	GeneCards			11.35			
+SLC25A1	1	GeneCards			11.35			
+PM20D1	1	GeneCards			11.35			
+GFPT1	1	GeneCards			11.35			
+YBX1	1	GeneCards			11.35			
+COL13A1	1	GeneCards			11.35			
+MAP1LC3B	1	GeneCards			11.35			
+TSPO	1	GeneCards			11.35			
+MIR20B	1	GeneCards			11.35			
+ATP1A1	1	GeneCards			11.34			
+FASLG	1	GeneCards			11.34			
+JAK1	1	GeneCards			11.34			
+BIRC5	1	GeneCards			11.34			
+DARS1	1	GeneCards			11.34			
+SH2B1	1	GeneCards			11.34			
+SLC40A1	1	GeneCards			11.34			
+PRKAA1	1	GeneCards			11.34			
+MCM3	1	GeneCards			11.34			
+SLC7A11	1	GeneCards			11.34	15.39		
+MIF	1	GeneCards			11.34			
+SLC25A10	1	GeneCards			11.34			
+SLC25A3	1	GeneCards			11.34			
+CAND1	1	GeneCards			11.34			
+HNRNPA3	1	GeneCards			11.34			
+IMMT	1	GeneCards			11.34			
+S100A4	1	GeneCards			11.34			
+CKAP4	1	GeneCards			11.34			
+TNFRSF19	1	GeneCards			11.34			
+LRP5	1	GeneCards			11.34			
+PRKAG2	1	GeneCards			11.34			
+ADAR	1	GeneCards			11.34	15.27		
+NCF1	1	GeneCards			11.34			
+CEBPB	1	GeneCards			11.34			
+RPL4	1	GeneCards			11.34			
+MICA	1	GeneCards			11.34			
+CYP4F3	1	GeneCards			11.34			
+MIR375	1	GeneCards			11.34			
+EMSLR	1	GeneCards			11.34			
+TRA-TGC7-1	1	GeneCards			11.34			
+ATP2A2	1	GeneCards			11.34			
+CFB	1	GeneCards			11.34			
+EP300	1	GeneCards			11.34			
+KDM1A	1	GeneCards			11.34			
+NIN	1	GeneCards			11.34			
+TRIM8	1	GeneCards			11.34			
+PDGFB	1	GeneCards			11.33			
+TF	1	GeneCards			11.33			
+ARPC1B	1	GeneCards			11.33			
+OTC	1	GeneCards			11.33			
+HCK	1	GeneCards			11.33			
+PRDX1	1	GeneCards			11.33			
+PRKAB1	1	GeneCards			11.33			
+MAVS	1	GeneCards			11.33	15.32		
+HSD11B1	1	GeneCards			11.33			
+ACTR3	1	GeneCards			11.33			
+RGS14	1	GeneCards			11.33			
+DEPTOR	1	GeneCards			11.33			
+KRT7	1	GeneCards			11.33			
+NRF1	1	GeneCards			11.33			
+NTS	1	GeneCards			11.33			
+ZPR1	1	GeneCards			11.33			
+CD247	1	GeneCards			11.32			
+IL2RB	1	GeneCards			11.32			
+PRMT5	1	GeneCards			11.32			
+AP1G1	1	GeneCards			11.32			
+EFEMP1	1	GeneCards			11.32	15.32		
+INPP5D	1	GeneCards			11.32			
+FCGR2B	1	GeneCards			11.32			
+CD74	1	GeneCards			11.32			
+WWTR1	1	GeneCards			11.32	11.73		
+FABP3	1	GeneCards			11.32			
+RPL35	1	GeneCards			11.32			
+NPPB	1	GeneCards			11.32			
+CXCL5	1	GeneCards			11.32			
+CXCL6	1	GeneCards			11.32			
+LAP3	1	GeneCards			11.32			
+SGPP1	1	GeneCards			11.32			
+TSKU	1	GeneCards			11.32			
+MRPL16	1	GeneCards			11.32			
+CDH1	1	GeneCards			11.32			
+HCFC1	1	GeneCards			11.32			
+HSPA8	1	GeneCards			11.32			
+CHD2	1	GeneCards			11.32			
+LIPG	1	GeneCards			11.32			
+SLC9A6	1	GeneCards			11.32			
+LITAF	1	GeneCards			11.32			
+GTF2I	1	GeneCards			11.32			
+MARK1	1	GeneCards			11.32			
+SLC26A6	1	GeneCards			11.32			
+CDKAL1	1	GeneCards			11.32			
+KLRK1	1	GeneCards			11.32			
+CCN3	1	GeneCards			11.32			
+SP2	1	GeneCards			11.32			
+PLA2G12B	1	GeneCards			11.32			
+LINC01237	1	GeneCards			11.32			
+CXCR2	1	GeneCards			11.31			
+CASP6	1	GeneCards			11.31			
+EDN1	1	GeneCards			11.31			
+GYS2	1	GeneCards			11.31			
+ACAA2	1	GeneCards			11.31			
+CCN6	1	GeneCards			11.31			
+GPX3	1	GeneCards			11.31			
+CLIP2	1	GeneCards			11.31			
+FIGNL1	1	GeneCards			11.31			
+UROC1	1	GeneCards			11.31			
+MIR149	1	GeneCards			11.31			
+RABGAP1L-DT	1	GeneCards			11.31			
+TCF4	1	GeneCards			11.3			
+TRIM28	1	GeneCards			11.3			
+EPCAM	1	GeneCards			11.3			
+APOC2	1	GeneCards			11.3			
+GZMB	1	GeneCards			11.3			
+NDUFS4	1	GeneCards			11.3			
+TNFSF12	1	GeneCards			11.3			
+TGFBI	1	GeneCards			11.3			
+COP1	1	GeneCards			11.3			
+RTN4	1	GeneCards			11.3			
+TRAF1	1	GeneCards			11.3			
+NEIL1	1	GeneCards			11.3			
+DYNC2I2	1	GeneCards			11.3			
+EIF2S1	1	GeneCards			11.3			
+MGAT1	1	GeneCards			11.3			
+TRIM21	1	GeneCards			11.3			
+PHKB	1	GeneCards			11.3			
+SCTR	1	GeneCards			11.3			
+ELOVL1	1	GeneCards			11.3			
+TRIM38	1	GeneCards			11.3			
+TRPC4AP	1	GeneCards			11.3			
+SPNS1	1	GeneCards			11.3			
+MIR125B1	1	GeneCards			11.3			
+MIR590	1	GeneCards			11.3			
+SNX8	1	GeneCards			11.3			
+MIR19A	1	GeneCards			11.3			
+SCT	1	GeneCards			11.3			
+MIR152	1	GeneCards			11.3			
+DRAM1	1	GeneCards			11.3			
+MIR5004	1	GeneCards			11.3			
+HDAC8	1	GeneCards			11.28			
+IL6ST	1	GeneCards			11.28			
+ABCC1	1	GeneCards			11.28			
+ALDH18A1	1	GeneCards			11.28			
+HSP90B1	1	GeneCards			11.28			
+EXT1	1	GeneCards			11.28			
+AOX1	1	GeneCards			11.28			
+S100B	1	GeneCards			11.28			
+CHN1	1	GeneCards			11.28			
+ENO2	1	GeneCards			11.28			
+ALAS1	1	GeneCards			11.28			
+GSTZ1	1	GeneCards			11.28			
+SYVN1	1	GeneCards			11.28			
+SFN	1	GeneCards			11.28			
+ZHX2	1	GeneCards			11.28			
+CLEC7A	1	GeneCards			11.28			
+CLDN5	1	GeneCards			11.28			
+AGTRAP	1	GeneCards			11.28			
+PSMF1	1	GeneCards			11.28			
+MIR182	1	GeneCards			11.28			
+LINC01587	1	GeneCards			11.28			
+MIR6881	1	GeneCards			11.28			
+DMP1-AS1	1	GeneCards			11.28			
+LDHA	1	GeneCards			11.26			
+NCSTN	1	GeneCards			11.26			
+NOTCH2	1	GeneCards			11.26			
+SDHB	1	GeneCards			11.26			
+F5	1	GeneCards			11.26			
+ATP5F1A	1	GeneCards			11.26			
+NDUFS2	1	GeneCards			11.26			
+PYGL	1	GeneCards			11.26			
+ATP1A2	1	GeneCards			11.26			
+SLC9A1	1	GeneCards			11.26			
+NDUFS3	1	GeneCards			11.26			
+SDHC	1	GeneCards			11.26			
+SNRPB	1	GeneCards			11.26			
+ATP6V1B2	1	GeneCards			11.26			
+ALAS2	1	GeneCards			11.26			
+HLA-C	1	GeneCards			11.26			
+GLRA1	1	GeneCards			11.26			
+PNPT1	1	GeneCards			11.26			
+PRKCH	1	GeneCards			11.26			
+ABI1	1	GeneCards			11.26			
+SUCLG1	1	GeneCards			11.26			
+RAC3	1	GeneCards			11.26			
+ZMPSTE24	1	GeneCards			11.26	15.37		
+NSF	1	GeneCards			11.26			
+TRPV1	1	GeneCards			11.26			
+HNRNPD	1	GeneCards			11.26			
+CUL1	1	GeneCards			11.26			
+PMPCA	1	GeneCards			11.26			
+RBBP7	1	GeneCards			11.26			
+AIMP2	1	GeneCards			11.26			
+COX15	1	GeneCards			11.26			
+GSTO1	1	GeneCards			11.26			
+PER2	1	GeneCards			11.26			
+ANXA11	1	GeneCards			11.26			
+CDC5L	1	GeneCards			11.26			
+ETHE1	1	GeneCards			11.26			
+RAB5C	1	GeneCards			11.26			
+TOR1AIP1	1	GeneCards			11.26			
+SLC25A24	1	GeneCards			11.26			
+VPS35	1	GeneCards			11.26			
+PHB2	1	GeneCards			11.26			
+RFC3	1	GeneCards			11.26			
+SDHAF2	1	GeneCards			11.26			
+MRPS22	1	GeneCards			11.26			
+NDUFA2	1	GeneCards			11.26			
+PPP3R1	1	GeneCards			11.26			
+ARF3	1	GeneCards			11.26			
+POLR2L	1	GeneCards			11.26			
+NDUFB10	1	GeneCards			11.26			
+CPSF7	1	GeneCards			11.26			
+OTUD7B	1	GeneCards			11.26			
+SYN2	1	GeneCards			11.26			
+CYP8B1	1	GeneCards			11.26			
+EXOC3	1	GeneCards			11.26			
+EIF1AX	1	GeneCards			11.26			
+GSTO2	1	GeneCards			11.26			
+STOML2	1	GeneCards			11.26			
+H1-0	1	GeneCards			11.26			
+TMEM126A	1	GeneCards			11.26			
+ATP5PB	1	GeneCards			11.26			
+KCNIP4	1	GeneCards			11.26			
+KPNA6	1	GeneCards			11.26			
+PIH1D1	1	GeneCards			11.26			
+MIR200B	1	GeneCards			11.26			
+IFITM2	1	GeneCards			11.26			
+SH3RF2	1	GeneCards			11.26			
+SLTM	1	GeneCards			11.26			
+CIDEB	1	GeneCards			11.26	23.72		
+SERPINB4	1	GeneCards			11.26			
+TOMM22	1	GeneCards			11.26			
+KLHL8	1	GeneCards			11.26			
+MIR199B	1	GeneCards			11.26			
+DNAJC15	1	GeneCards			11.26			
+MIR18A	1	GeneCards			11.26			
+TMEM109	1	GeneCards			11.26			
+CPNE2	1	GeneCards			11.26			
+RNU6-1	1	GeneCards			11.26			
+MARCHF3	1	GeneCards			11.26			
+FBXO42	1	GeneCards			11.26			
+LRP11	1	GeneCards			11.26			
+PSORS1C1	1	GeneCards			11.26			
+MIR663A	1	GeneCards			11.26			
+LSM12	1	GeneCards			11.26			
+INPPL1	1	GeneCards			11.23			
+PYGM	1	GeneCards			11.23			
+TNFRSF1B	1	GeneCards			11.23			
+RACK1	1	GeneCards			11.23			
+CUL4A	1	GeneCards			11.23			
+SLC13A5	1	GeneCards			11.23			
+PRDX2	1	GeneCards			11.23			
+FGF4	1	GeneCards			11.23			
+PACSIN2	1	GeneCards			11.23			
+TREM1	1	GeneCards			11.23			
+SPDL1	1	GeneCards			11.23			
+TSC22D4	1	GeneCards			11.23			
+SLC25A47	1	GeneCards			11.23			
+NREP	1	GeneCards			11.23			
+MIR1825	1	GeneCards			11.23			
+LNCAROD	1	GeneCards			11.23			
+CYP1B1	1	GeneCards			11.18			
+PDGFRB	1	GeneCards			11.18			
+EPHX1	1	GeneCards			11.18			
+IDO1	1	GeneCards			11.18			
+NPAS2	1	GeneCards			11.18			
+ATG4B	1	GeneCards			11.18			
+IRS4	1	GeneCards			11.18			
+BHLHE41	1	GeneCards			11.18			
+MOXD1	1	GeneCards			11.18			
+DEGS2	1	GeneCards			11.18			
+TRG-GCC3-1	1	GeneCards			11.18			
+CTSC	1	GeneCards			11.1			
+IL6R	1	GeneCards			11.1			
+ITGB2	1	GeneCards			11.1			
+SDHA	1	GeneCards			11.1			
+XPC	1	GeneCards			11.1			
+FECH	1	GeneCards			11.1			
+RRM2B	1	GeneCards			11.1			
+ASPH	1	GeneCards			11.1			
+DDB2	1	GeneCards			11.1			
+GSS	1	GeneCards			11.1			
+IRF8	1	GeneCards			11.1			
+SLC25A4	1	GeneCards			11.1			
+B2M	1	GeneCards			11.1			
+PCSK1	1	GeneCards			11.1			
+CHRND	1	GeneCards			11.1			
+NFS1	1	GeneCards			11.1			
+SGK1	1	GeneCards			11.1			
+CDC25B	1	GeneCards			11.1			
+MYO3A	1	GeneCards			11.1			
+P3H1	1	GeneCards			11.1			
+CORO1A	1	GeneCards			11.1			
+FES	1	GeneCards			11.1			
+SLC7A7	1	GeneCards			11.1			
+ETFDH	1	GeneCards			11.1			
+PHYH	1	GeneCards			11.1			
+TXN	1	GeneCards			11.1			
+TEC	1	GeneCards			11.1			
+ABCA7	1	GeneCards			11.1			
+NCKAP1L	1	GeneCards			11.1			
+PPARGC1B	1	GeneCards			11.1			
+COQ8B	1	GeneCards			11.1			
+CEACAM1	1	GeneCards			11.1			
+RIPK4	1	GeneCards			11.1			
+RUNX3	1	GeneCards			11.1			
+KCNK9	1	GeneCards			11.1			
+SLCO2B1	1	GeneCards			11.1			
+GABRG3	1	GeneCards			11.1			
+IL15RA	1	GeneCards			11.1			
+TTPA	1	GeneCards			11.1			
+UBA7	1	GeneCards			11.1			
+CBR1	1	GeneCards			11.1			
+FAM20A	1	GeneCards			11.1			
+MSRB3	1	GeneCards			11.1			
+FCER1G	1	GeneCards			11.1			
+MYO1F	1	GeneCards			11.1			
+APOC1	1	GeneCards			11.1			
+MSMO1	1	GeneCards			11.1			
+PRDX6	1	GeneCards			11.1			
+BLVRB	1	GeneCards			11.1			
+SLC16A10	1	GeneCards			11.1			
+GCM2	1	GeneCards			11.1			
+SFTA3	1	GeneCards			11.1			
+CALCOCO2	1	GeneCards			11.1			
+DNASE2	1	GeneCards			11.1			
+IL13RA2	1	GeneCards			11.1			
+NMI	1	GeneCards			11.1			
+PLXNC1	1	GeneCards			11.1			
+VSIR	1	GeneCards			11.1			
+DUSP2	1	GeneCards			11.1			
+SELENBP1	1	GeneCards			11.1			
+SLC27A6	1	GeneCards			11.1			
+ATOX1	1	GeneCards			11.1			
+MARCO	1	GeneCards			11.1			
+OPN3	1	GeneCards			11.1			
+SQOR	1	GeneCards			11.1			
+TAX1BP3	1	GeneCards			11.1			
+ASAH2	1	GeneCards			11.1			
+COX17	1	GeneCards			11.1			
+EGR4	1	GeneCards			11.1			
+KERA	1	GeneCards			11.1			
+RAD54L2	1	GeneCards			11.1			
+RETSAT	1	GeneCards			11.1			
+ACOT12	1	GeneCards			11.1			
+ARID5A	1	GeneCards			11.1			
+COPZ2	1	GeneCards			11.1			
+MFAP4	1	GeneCards			11.1			
+OSR1	1	GeneCards			11.1			
+KLHL42	1	GeneCards			11.1			
+BARX2	1	GeneCards			11.1			
+HACD2	1	GeneCards			11.1			
+PKHD1L1	1	GeneCards			11.1			
+OSR2	1	GeneCards			11.1			
+UQCC1	1	GeneCards			11.1			
+ABHD4	1	GeneCards			11.1			
+PRXL2B	1	GeneCards			11.1			
+SLC25A37	1	GeneCards			11.1			
+SYT13	1	GeneCards			11.1			
+UQCC3	1	GeneCards			11.1			
+FBXO25	1	GeneCards			11.1			
+SLC25A28	1	GeneCards			11.1			
+WDR76	1	GeneCards			11.1			
+ZNF185	1	GeneCards			11.1			
+GUCA2B	1	GeneCards			11.1			
+SFMBT2	1	GeneCards			11.1			
+ACOD1	1	GeneCards			11.1			
+CASTOR1	1	GeneCards			11.1			
+DDT	1	GeneCards			11.1			
+HPCAL4	1	GeneCards			11.1			
+OCIAD2	1	GeneCards			11.1			
+LONRF1	1	GeneCards			11.1			
+MIMS2	1	GeneCards			11.1			
+PPP1R14C	1	GeneCards			11.1			
+YPEL3	1	GeneCards			11.1			
+SDHAF3	1	GeneCards			11.1			
+CMBL	1	GeneCards			11.1			
+DNAJC4	1	GeneCards			11.1			
+HEBP2	1	GeneCards			11.1			
+SLC10A3	1	GeneCards			11.1			
+WDR55	1	GeneCards			11.1			
+HHIPL1	1	GeneCards			11.1			
+CPO	1	GeneCards			11.1			
+DHRS12	1	GeneCards			11.1			
+SPHKAP	1	GeneCards			11.1			
+PRRG3	1	GeneCards			11.1			
+TLCD2	1	GeneCards			11.1			
+LRIT2	1	GeneCards			11.1			
+TCP11L2	1	GeneCards			11.1			
+PLEKHS1	1	GeneCards			11.1			
+IL11RA	1	GeneCards			10.87			
+HAVCR2	1	GeneCards			10.87			
+IL11	1	GeneCards			10.87			
+FNDC5	1	GeneCards			10.8			
+LINC02605	1	GeneCards			10.8			
+TP53	1	GeneCards			10.77	15.27		
+FFAR4	1	GeneCards			10.76			
+NR1I3	1	GeneCards			10.73			
+PARVB	1	GeneCards			10.72			
+ENPP1	1	GeneCards			10.71			
+MIR98	1	GeneCards			10.67			
+AKR1A1	1	GeneCards			10.65			
+PRKCE	1	GeneCards			10.64			
+SOST	1	GeneCards			10.63			
+POSTN	1	GeneCards			10.63			
+TFEB	1	GeneCards			10.62			
+ALOX12	1	GeneCards			10.61			
+LINC00649	1	GeneCards			10.61			
+FGF23	1	GeneCards			10.59			
+MIR190B	1	GeneCards			10.58			
+TRC-GCA24-1	1	GeneCards			10.51			
+MBOAT4	1	GeneCards			10.51			
+GH1	1	GeneCards			10.51			
+GLP2R	1	GeneCards			10.45			
+MIR211	1	GeneCards			10.45			
+TNFRSF11B	1	GeneCards			10.39			
+ATF6	1	GeneCards			10.38			
+TNFRSF11A	1	GeneCards			10.38	33.28		
+E2F1	1	GeneCards			10.37	15.32		
+KRT8	1	GeneCards			10.34			
+TNFSF11	1	GeneCards			10.33	23.16		
+MIR24-1	1	GeneCards			10.32			
+MIR1290	1	GeneCards			10.32			
+TBK1	1	GeneCards			10.31			
+CNR2	1	GeneCards			10.31			
+VTRNA1-1	1	GeneCards			10.25			
+NR1H3	1	GeneCards			10.22			
+NNMT	1	GeneCards			10.19			
+GDF2	1	GeneCards			10.15			
+TLX1NB	1	GeneCards			10.13			
+MEFV	1	GeneCards			10.12			
+RPTOR	1	GeneCards			10.12			
+XIST	1	GeneCards			10.09			
+FAM3D	1	GeneCards			10.09			
+SPX	1	GeneCards			10.02			
+ALOX15	1	GeneCards			9.93			
+FFAR1	1	GeneCards			9.93			
+HIF3A	1	GeneCards			9.89			
+FETUB	1	GeneCards			9.87			
+JAK2	1	GeneCards			9.86			
+PARP1	1	GeneCards			9.86			
+ATF4	1	GeneCards			9.86			
+LGALS3BP	1	GeneCards			9.85			
+PSMD2	1	GeneCards			9.81			
+SMAD3	1	GeneCards			9.79			
+GSTK1	1	GeneCards			9.79			
+MIRLET7B	1	GeneCards			9.79			
+SCP2	1	GeneCards			9.79			
+ABCB7	1	GeneCards			9.79			
+SCARB2	1	GeneCards			9.79			
+SLC17A5	1	GeneCards			9.79			
+SI	1	GeneCards			9.79			
+ACER3	1	GeneCards			9.79			
+MIR25	1	GeneCards			9.79			
+FABP12	1	GeneCards			9.79			
+LINC01684	1	GeneCards			9.77			
+LOX	1	GeneCards			9.72			
+ALOX5	1	GeneCards			9.71			
+TRAF2	1	GeneCards			9.67			
+MAP3K11	1	GeneCards			9.36			
+RB1CC1	1	GeneCards			9.13			
+WNT3A	1	GeneCards			9.13			
+CARMN	1	GeneCards			9.13			
+STING1	1	GeneCards			8.98	24.04		
+GHRL	1	GeneCards			8.97			
+UCHL1	1	GeneCards			8.97			
+CXCL16	1	GeneCards			8.97			
+STEAP4	1	GeneCards			8.97			
+MIR320A	1	GeneCards			8.96			
+SPARC	1	GeneCards			8.96			
+PTPN1	1	GeneCards			8.96			
+CXCL1	1	GeneCards			8.95			
+SLC25A12	1	GeneCards			8.94			
+USP7	1	GeneCards			8.93			
+AIM2	1	GeneCards			8.93			
+CXCR6	1	GeneCards			8.93	15.4		
+CYP2C19	1	GeneCards			8.92			
+GDF11	1	GeneCards			8.92			
+KDM6B	1	GeneCards			8.91			
+USP4	1	GeneCards			8.91			
+CD47	1	GeneCards			8.89	23.6		
+AR	1	GeneCards			8.87			
+NCOR1	1	GeneCards			8.84			
+CGAS	1	GeneCards			8.84	23.8		
+SUOX	1	GeneCards			8.79			
+IL17A	1	GeneCards			8.79	17.0		
+GPR55	1	GeneCards			8.79			
+OSBP	1	GeneCards			8.79			
+VMP1	1	GeneCards			8.79			
+SCARNA5	1	GeneCards			8.79			
+CX3CL1	1	GeneCards			8.71			
+FAP	1	GeneCards			8.71			
+MCOLN1	1	GeneCards			8.45			
+RETNLB	1	GeneCards			8.45			
+MIR128-2	1	GeneCards			8.4			
+WNT1	1	GeneCards			8.35			
+FAM3C	1	GeneCards			8.35			
+HOTTIP	1	GeneCards			8.35			
+GSDME	1	GeneCards			8.27			
+MIR24-2	1	GeneCards			8.27			
+PCBP2-OT1	1	GeneCards			8.27			
+GPC3	1	GeneCards			8.15			
+CRTC2	1	GeneCards			8.15			
+MIR376B	1	GeneCards			8.15			
+HEIH	1	GeneCards			8.15			
+ITPR1	1	GeneCards			7.97			
+DLK1	1	GeneCards			7.97			
+CADM1	1	GeneCards			7.97			
+RECK	1	GeneCards			7.97			
+SLC17A9	1	GeneCards			7.97			
+CASC2	1	GeneCards			7.97			
+CERNA2	1	GeneCards			7.97			
+CCEPR	1	GeneCards			7.97			
+KCNJ11	1	GeneCards			7.62			
+MAT2A	1	GeneCards			7.62			
+ATP7A	1	GeneCards			7.62			
+IL33	1	GeneCards			7.62			
+FFAR2	1	GeneCards			7.62			
+FFAR3	1	GeneCards			7.62			
+SESN2	1	GeneCards			7.62			
+NR2F1-AS1	1	GeneCards			7.62			
+MIR125A	1	GeneCards			7.62			
+MALRD1	1	GeneCards			7.62			
+BCYRN1	1	GeneCards			7.62			
+LINC00958	1	GeneCards			7.62			
+TUG1	1	GeneCards			7.62			
+TRE-TTC3-1	1	GeneCards			7.62			
+ADAM10	1	GeneCards			6.74			
+USP9X	1	GeneCards			6.74			
+SLC37A4	1	GeneCards			6.74			
+PDE4A	1	GeneCards			6.74			
+HMGA1	1	GeneCards			6.74			
+MSR1	1	GeneCards			6.74			
+ANO1	1	GeneCards			6.74			
+NEDD8	1	GeneCards			6.74	23.8		
+USP19	1	GeneCards			6.74			
+USP21	1	GeneCards			6.74			
+BNIP3	1	GeneCards			6.74			
+USP22	1	GeneCards			6.74			
+PRDX4	1	GeneCards			6.74			
+PEA15	1	GeneCards			6.74			
+FOXO6	1	GeneCards			6.74			
+UFM1	1	GeneCards			6.74			
+DANCR	1	GeneCards			6.74			
+MSC-AS1	1	GeneCards			6.74			
+RNU6ATAC	1	GeneCards			6.74			
+STEAP1	1	GeneCards			6.74			
+TMPO-AS1	1	GeneCards			6.74			
+DLEU2	1	GeneCards			6.74			
+MIR545	1	GeneCards			6.74			
+RNU2-1	1	GeneCards			6.74			
+CLRN1-AS1	1	GeneCards			6.74			
+LINC00511	1	GeneCards			6.74			
+MFN2	1	GeneCards				27.58		
+PON1	1	GeneCards				25.95		
+PON2	1	GeneCards				25.95		
+PON3	1	GeneCards				22.65		
+ABCG1	1	GeneCards				17.03		
+APLNR	1	GeneCards				17.02		
+APLN	1	GeneCards				17.02		
+CD40	1	GeneCards				15.41		
+CD40LG	1	GeneCards				15.41		
+CD4	1	GeneCards				15.41		
+ENO3	1	GeneCards				15.41		
+DHCR24	1	GeneCards				15.41		
+CCL5	1	GeneCards				15.41		
+CYP4A11	1	GeneCards				15.41		
+PPP1R3C	1	GeneCards				15.41		
+ABCC8	1	GeneCards				15.4		
+ACSL5	1	GeneCards				15.4		
+PLA2R1	1	GeneCards				15.4		
+CERS4	1	GeneCards				15.4		
+USP29	1	GeneCards				15.4		
+ENG	1	GeneCards				15.39		
+TMPRSS6	1	GeneCards				15.39		
+IFI16	1	GeneCards				15.39		
+MTARC1	1	GeneCards				15.39		
+IDH1	1	GeneCards				15.37		
+ADRB2	1	GeneCards				15.37		
+NAT10	1	GeneCards				15.37		
+DNASE1L3	1	GeneCards				15.37		
+GPR75	1	GeneCards				15.37		
+KAT2A	1	GeneCards				15.35		
+TLN1	1	GeneCards				15.35		
+HDAC11	1	GeneCards				15.35		
+NRXN3	1	GeneCards				15.35		
+KLK2	1	GeneCards				15.35		
+GPR35	1	GeneCards				15.35		
+FRMD5	1	GeneCards				15.35		
+ITGBL1	1	GeneCards				15.35		
+MC4R	1	GeneCards				15.32		
+HMBS	1	GeneCards				15.32		
+RIPK3	1	GeneCards				15.32		
+CROT	1	GeneCards				15.32		
+CDKN2A	1	GeneCards				15.27		
+PLD1	1	GeneCards				15.27		
+IL17F	1	GeneCards				15.27		
+STK39	1	GeneCards				15.27		
+LDLRAP1	1	GeneCards				15.2		
+BAG3	1	GeneCards				15.2		
+PIEZO1	1	GeneCards				15.2		
+ERLIN1	1	GeneCards				15.06		
+MERTK	1	GeneCards				12.49		
+GPR18	1	GeneCards				12.49		
+GPR65	1	GeneCards				12.49		
+GPR84	1	GeneCards				12.49		
+MAF	1	GeneCards				12.07		
+MTARC2	1	GeneCards				12.07		
+YAP1	1	GeneCards				11.73		
+TPP2	1	GeneCards				10.12		
+VASP	1	GeneCards				10.12		
+PHC3	1	GeneCards				10.12		
+ADGRL3	1	GeneCards				10.12		
+BHLHE40	1	GeneCards				10.12		
+NDUFAF3	1	GeneCards				10.12		
+PAF1	1	GeneCards				10.12		
+MX2	1	GeneCards				10.12		
+GPKOW	1	GeneCards				10.12		
+SFMBT1	1	GeneCards				10.12		
+MNT	1	GeneCards				10.12		
+CARD16	1	GeneCards				10.12		
+TAAR8	1	GeneCards				10.12		
+SERF1A	1	GeneCards				10.12		
+RORA	1	GeneCards				9.93		
+PCK1	1	GeneCards				9.93		
+NOX1	1	GeneCards				9.93		
+MPC1	1	GeneCards				9.93		
+MANF	1	GeneCards				9.93		

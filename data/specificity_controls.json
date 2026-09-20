@@ -1,0 +1,53 @@
+{
+ "universe": 20818,
+ "compound_K": 2926,
+ "disease_n": 1591,
+ "disease_in_universe": 1455,
+ "observed": 479,
+ "expected": 223.6,
+ "fold": 2.142,
+ "hypergeom_p": 4.56534811131765e-67,
+ "permutation": {
+  "mean": 204.5,
+  "sd": 12.6,
+  "z": 21.8,
+  "p": 0.0,
+  "n": 10000
+ },
+ "stratified": {
+  "CTD_only": {
+   "K": 2445,
+   "observed": 404,
+   "fold": 2.16,
+   "p": 4.087254940865763e-56
+  },
+  "predicted_not_CTD": {
+   "K": 481,
+   "observed": 75,
+   "fold": 2.04
+  }
+ },
+ "ctd_only_retains": {
+  "core": [
+   "TNF",
+   "IL6",
+   "TP53",
+   "ALB",
+   "IL1B",
+   "INS"
+  ],
+  "ext": [
+   "AKT1",
+   "PPARG",
+   "EGFR",
+   "BCL2"
+  ],
+  "sig5": [
+   "EPHA2",
+   "FMO1",
+   "MYC",
+   "PHLDA1",
+   "WNT5A"
+  ]
+ }
+}
