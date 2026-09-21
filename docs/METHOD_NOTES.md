@@ -58,3 +58,13 @@ A naive fixed-threshold percolation variant of EPC degenerates on this dense net
 
 - Final author list and corresponding-author contact applied across CITATION.cff, LICENSE and README.
 - Repository documentation consolidated; source comments and console output standardized to English.
+
+## Round-5 revision (2026-09-21, v2.0)
+
+- Docking note clarified for MMP9 (1GKC): the catalytic zinc is removed during receptor
+  preparation (metal-site limitation); keep_zn is now disabled in code and the docking
+  summary wording matches the manuscript.
+- Figure 13 rebuilt with explicit A/B/C panel letters; the per-residue RMSF panel of the
+  MD figure was replaced by the archived hydrogen-bond count profile (panel D), with
+  Angstrom/C-alpha symbols corrected in all axis labels.
+- Figure 2 caption wording aligned ("top-10 hub genes").
