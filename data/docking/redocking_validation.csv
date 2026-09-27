@@ -1,0 +1,17 @@
+﻿Target,PDB,Native_ligand,Chain,ResSeq,Ligand_heavy_atoms,Box_scheme,Box_size_A,RMSD_heavy_atom_A,Vina_mode1_kcal_mol,Pass_RMSD_le_2A
+PPARA,1K7L,544,A,469,38,compact,19x17x19,0.71,-10.8,yes
+PPARA,1K7L,544,A,469,38,screening_25A,25x25x25,4.05,-10.7,no
+PPARG,2PRG,BRL,A,1,25,compact,18x17x16,3.0,-8.1,no
+PPARG,2PRG,BRL,A,1,25,screening_25A,25x25x25,2.78,-7.9,no
+FXR_NR1H4,4OIV,XX9,A,501,32,compact,16x17x17,0.23,-10.6,yes
+FXR_NR1H4,4OIV,XX9,A,501,32,screening_25A,25x25x25,0.28,-10.7,yes
+EGFR,1M17,AQ4,A,999,29,compact,24x13x16,1.14,-6.7,yes
+EGFR,1M17,AQ4,A,999,29,screening_25A,25x25x25,4.34,-6.8,no
+CASP3,1GFW,MSI,A,1,28,compact,16x15x19,2.21,-8.3,no
+CASP3,1GFW,MSI,A,1,28,screening_25A,25x25x25,2.21,-8.3,no
+MMP9,1GKC,NFH,A,1448,22,compact,16x15x19,3.21,-6.1,no
+MMP9,1GKC,NFH,A,1448,22,screening_25A,25x25x25,3.44,-4.5,no
+TNF,2AZ5,307,A,1,40,compact,18x17x17,0.42,-9.2,yes
+TNF,2AZ5,307,A,1,40,screening_25A,25x25x25,0.56,-9.1,yes
+AKT1,3O96,IQO,A,444,42,compact,16x24x21,0.19,-14.2,yes
+AKT1,3O96,IQO,A,444,42,screening_25A,25x25x25,0.21,-14.2,yes

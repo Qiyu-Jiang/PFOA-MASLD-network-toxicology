@@ -37,6 +37,7 @@ docs/        method notes and repository documentation
 | `data/cohort/gse126848_score_per_sample.csv` | per-sample five-gene signature scores (GSE126848) |
 | `data/specificity_controls.json` | hypergeometric / permutation / stratified specificity analyses (script: `code/02_target_merge/run_10_specificity_controls.py`; inputs in `data/specificity/`) |
 | `data/nhanes/` | NHANES 2015-2018 analysis dataset, results, ALT-quartile and covariate-sensitivity analyses |
+| `data/docking/redocking_validation.csv` | native-ligand redocking validation (pose-recovery heavy-atom RMSD for 8 co-crystallized complexes; Table S17) |
 | `data/deg/`, `data/md/`, `data/mmgbsa/`, `data/docking/`, `data/enrichment/` | differential expression, MD time series, MM-GBSA, docking and enrichment outputs |
 
 ## Reproduction
