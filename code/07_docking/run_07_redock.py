@@ -1,20 +1,25 @@
 # -*- coding: utf-8 -*-
-"""run_07_redock v2：8 靶点 native-ligand redocking 验证（AutoDock Vina 1.2.5）
-与主对接（run_07_docking.py）完全一致的受体预处理/盒子/搜索参数；
-配体 = 晶体自带 native ligand，多拷贝时取质心离对接盒最近的一组；
-RMSD = 重原子 Kabsch + 元素分组内匈牙利最优指派（免 scipy）。
-产出：07_docking/redock/redock_summary.csv + per-target logs
+"""run_07_redock v2: native-ligand redocking validation for the eight docking targets
+(AutoDock Vina 1.2.5).
+
+Receptor preparation, box placement and search parameters are identical to the primary
+docking run (run_07_docking.py). The ligand for each target is the co-crystallized native
+ligand; when multiple symmetry copies exist, the copy whose centroid lies closest to the
+docking-box center is used. RMSD is computed on heavy atoms after Kabsch superposition,
+with a Hungarian optimal assignment within element groups (no scipy dependency).
+
+Outputs: 07_docking/redock/redock_summary.csv + per-target Vina logs.
 """
 import os, subprocess, re, csv, time, math
 import numpy as np
 
-BASE = r'C:\Users\Administrator\.openclaw-autoclaw\workspace\PFOA_NAFLD_研究方案'
+BASE = os.environ.get('PFOA_PROJECT_ROOT', r'C:\Users\user\workspace\PFOA_NAFLD_project')
 DK = os.path.join(BASE, '07_docking')
 REC = os.path.join(DK, 'receptors')
 OUT = os.path.join(DK, 'redock')
 os.makedirs(OUT, exist_ok=True)
 VINA = os.path.join(DK, 'vina.exe')
-OBEX = r'D:\Program Files\Autoclaw\resources\python\Lib\site-packages\openbabel\bin\obabel.exe'
+OBEX = os.environ.get('OBABEL_EXE', 'obabel')
 
 TARGETS = [
     ('PPARA', '1K7L', (-17.6, -14.4, -5.4), '544'),
@@ -32,7 +37,7 @@ AD2ELEM = {'A': 'C', 'C': 'C', 'N': 'N', 'NA': 'N', 'NS': 'N', 'OA': 'O', 'OS': 
            'Br': 'Br', 'BR': 'Br', 'I': 'I'}
 
 def hungarian(cost):
-    """e-maxx O(n^3) 匈牙利；返回 ans[i] = cost 矩阵第 i 行分配的列。"""
+    """e-maxx O(n^3) Hungarian algorithm; returns ans[i] = column assigned to row i of cost."""
     n = cost.shape[0]
     INF = 1e18
     u = np.zeros(n + 1); v = np.zeros(n + 1)
@@ -92,7 +97,7 @@ def pdbqt_receptor(clean_pdb, pid):
     return dst
 
 def extract_native_copies(pid, resname):
-    """全部拷贝行组：[(chain, resseq), [lines]]；altloc 仅 ' '/'A'"""
+    """Collect all HETATM copies of the native ligand, keyed by (chain, resseq); altloc restricted to ' ' / 'A'."""
     groups = {}
     for line in open(os.path.join(REC, f'{pid}.pdb'), encoding='utf-8', errors='replace'):
         if line.startswith('HETATM') and line[17:20].strip() == resname:
@@ -155,7 +160,8 @@ def rmsd_assign(cels, cxyz, dels, dxyz):
     if sorted(cels) != sorted(dels):
         return None, f'elem-multiset mismatch cry={len(cels)} dock={len(dels)}'
     P = np.zeros((len(cels), 3)); Q = np.zeros((len(dels), 3))
-    # 元素分组：晶体侧按出现序编号，docked 侧对每个晶体原子找最优 docked 原子
+    # Element-grouped assignment: crystal side keeps appearance order; for each crystal
+    # atom the best-matching docked atom of the same element is assigned via Hungarian.
     idx_by_el_c = {}
     for i, e in enumerate(cels):
         idx_by_el_c.setdefault(e, []).append(i)

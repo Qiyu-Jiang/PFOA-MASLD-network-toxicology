@@ -1,19 +1,21 @@
 # -*- coding: utf-8 -*-
-"""run_07_redock_pass2：紧凑盒 pose-recovery 验证（标准方案）
-盒中心 = native ligand 拷贝质心；盒边长 = 配体各轴跨度 + 8 Å（下限 10 Å）；
-其余参数与主对接一致（exhaustiveness 32, seed 42, num_modes 10）。
-元素归一化修正：两侧统一大写。产出 redock_summary_compact.csv。
+"""run_07_redock_pass2: compact-box pose-recovery validation (standard scheme).
+
+Box center = centroid of the largest native-ligand copy; box edge lengths = per-axis
+ligand extent + 8 A (minimum 10 A). All other parameters match the primary docking
+run (exhaustiveness 32, seed 42, num_modes 10). Element normalization fix: both
+sides are upper-cased. Outputs redock_summary_compact.csv.
 """
 import os, subprocess, re, csv, time, math
 import numpy as np
 
-BASE = r'C:\Users\Administrator\.openclaw-autoclaw\workspace\PFOA_NAFLD_研究方案'
+BASE = os.environ.get('PFOA_PROJECT_ROOT', r'C:\Users\user\workspace\PFOA_NAFLD_project')
 DK = os.path.join(BASE, '07_docking')
 REC = os.path.join(DK, 'receptors')
 OUT = os.path.join(DK, 'redock')
 os.makedirs(OUT, exist_ok=True)
 VINA = os.path.join(DK, 'vina.exe')
-OBEX = r'D:\Program Files\Autoclaw\resources\python\Lib\site-packages\openbabel\bin\obabel.exe'
+OBEX = os.environ.get('OBABEL_EXE', 'obabel')
 
 TARGETS = [
     ('PPARA', '1K7L', '544'),
@@ -30,6 +32,7 @@ AD2ELEM = {'A': 'C', 'C': 'C', 'N': 'N', 'NA': 'N', 'NS': 'N', 'OA': 'O', 'OS': 
            'SA': 'S', 'S': 'S', 'P': 'P', 'F': 'F', 'CL': 'Cl', 'BR': 'Br', 'I': 'I'}
 
 def hungarian(cost):
+    """e-maxx O(n^3) Hungarian algorithm; returns ans[i] = column assigned to row i of cost."""
     n = cost.shape[0]
     INF = 1e18
     u = np.zeros(n + 1); v = np.zeros(n + 1)
@@ -118,7 +121,8 @@ for name, pid, lig in TARGETS:
     print('=' * 70)
     print(f'--- {name} ({pid}) {lig} compact-box ---')
     t0 = time.time()
-    # 抽配体拷贝（与 pass1 相同规则：最大拷贝，pass1 已选质心离 25A 盒最近的；这里直接用同一拷贝）
+    # Ligand copy: largest HETATM copy (same copy pass1 selected as centroid-nearest
+    # to the 25 A screening box); reuse that copy directly here.
     groups = {}
     for line in open(os.path.join(REC, f'{pid}.pdb'), encoding='utf-8', errors='replace'):
         if line.startswith('HETATM') and line[17:20].strip() == lig and line[16] in (' ', 'A'):
@@ -137,7 +141,7 @@ for name, pid, lig in TARGETS:
     subprocess.run([OBEX, lig_pdb, '-O', lig_pdbqt, '--partialcharge', 'gasteiger'],
                    capture_output=True, text=True, timeout=300)
 
-    # 受体：pass1 已确保 pdbqt 就绪
+    # Receptor: pdbqt already prepared by pass1.
     rec_pdbqt = os.path.join(REC, f'{pid}.pdbqt')
     if os.path.getsize(rec_pdbqt) < 1000:
         rec_pdbqt = os.path.join(REC, f'{pid}_nozn.pdbqt')

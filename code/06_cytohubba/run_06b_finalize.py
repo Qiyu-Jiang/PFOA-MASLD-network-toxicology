@@ -1,5 +1,9 @@
-
-NOTE (2026-09-20): superseded intermediate version retained for transparency. The fixed-threshold percolation variant of EPC degenerates on this dense network (mass ties) and is NOT part of the final consensus; the final analysis uses the official cytoHubba plugin EPC, replicated in run_09_epc_official_replication.py (Spearman rho = 0.9965; top-10 overlap 8/10). The five-algorithm subset below reproduces the same strict/extended core (see data/hub_consensus_top10_six_algorithms.csv).
+# NOTE (2026-09-20): superseded intermediate version retained for transparency. The
+# fixed-threshold percolation variant of EPC degenerates on this dense network (mass
+# ties) and is NOT part of the final consensus; the final analysis uses the official
+# cytoHubba plugin EPC, replicated in run_09_epc_official_replication.py (Spearman
+# rho = 0.9965; top-10 overlap 8/10). The five-algorithm subset below reproduces the
+# same strict/extended core (see data/hub_consensus_top10_six_algorithms.csv).
 # -*- coding: utf-8 -*-
 """run_06 wrap-up: recompute the five-algorithm consensus + corrected figure (EPC demoted to an explanatory panel)"""
 import csv, os, math

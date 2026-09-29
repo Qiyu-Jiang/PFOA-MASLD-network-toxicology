@@ -3,7 +3,7 @@
 Code and processed data accompanying the manuscript:
 
 > *Integrated Network Toxicology, Machine Learning and Molecular Docking Prioritize Candidate Targets Linking
-> PFOA Exposure to Non-Alcoholic Fatty Liver Disease: A Computational Study* (submitted to **Toxics**).
+> PFOA Exposure to Non-Alcoholic Fatty Liver Disease: A Computational Study*.
 
 The study integrates (i) network toxicology (PFOA targets from CTD, SwissTargetPrediction, TargetNet, PharmMapper and SEA;
 disease genes from the GSE89632 discovery cohort and the DisGeNET, GeneCards and CTD databases), (ii) a cross-validated
@@ -38,7 +38,7 @@ docs/        method notes and repository documentation
 | `data/specificity_controls.json` | hypergeometric / permutation / stratified specificity analyses (script: `code/02_target_merge/run_10_specificity_controls.py`; inputs in `data/specificity/`) |
 | `data/nhanes/` | NHANES 2015-2018 analysis dataset, results, ALT-quartile and covariate-sensitivity analyses |
 | `data/docking/redocking_validation.csv` | native-ligand redocking validation (pose-recovery heavy-atom RMSD for 8 co-crystallized complexes; Table S17) |
-- `data/md/TableS18_per_residue_contacts.csv` — per-residue PFOA–protein contact occupancy (AKT1/PPARA/PPARG, 100 ns each); `data/md/TableS19_hbond_occupancy.csv` — geometric H-bond occupancy (Arg273 95.9%, Asn54 87.9%, Ser289 91.9%)
+| `data/md/TableS18_per_residue_contacts.csv`, `data/md/TableS19_hbond_occupancy.csv` | per-residue PFOA–protein contact occupancy and geometric H-bond occupancy for the three 100-ns complexes (Arg273 95.9%, Asn54 87.9%, Ser289 91.9%; Table S18/S19) |
 | `data/deg/`, `data/md/`, `data/mmgbsa/`, `data/docking/`, `data/enrichment/` | differential expression, MD time series, MM-GBSA, docking and enrichment outputs |
 
 ## Reproduction

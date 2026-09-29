@@ -51,8 +51,8 @@ for name, pid, (cx, cy, cz), pocket in TARGETS:
     print('=' * 70)
     print(f'--- {name} ({pid}) | pocket: {pocket} ---')
     # NOTE: MMP9 (1GKC) is docked WITHOUT its catalytic zinc (removed during receptor preparation);
-# this matches the manuscript (a metal-site limitation). Set keep_zn=True to dock with the zinc.
-keep_zn = (pid == '1GKC' and False)
+    # this matches the manuscript (a metal-site limitation). Set keep_zn=True to dock with the zinc.
+    keep_zn = (pid == '1GKC' and False)
     clean = clean_receptor(pid, keep_zn)
     rec_pdbqt, conv_msg = pdbqt_receptor(clean, pid)
     print('receptor pdbqt:', os.path.getsize(rec_pdbqt), 'bytes |', conv_msg[-80:])
